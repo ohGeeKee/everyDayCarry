@@ -1,0 +1,537 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+
+        <Title>studyPamphlet</Title>
+
+        <meta charset="UTF-8">
+
+        <meta name="viewport" content="width=device-width, initial-scale-1.0">
+
+        <link rel="stylesheet" href="CSS/cssEveryDayCarryActual.css">
+
+    </head>
+
+    <body>
+
+        <div>
+
+        <h2>Study</h2>
+
+            <a href="everyDayCarry.html">everyDayCarry</a>
+
+          <div class="pamphlet">
+
+            <div class="pamphlet-square" style="grid-area: set1.1">PIM-DM</div>
+
+            <div class="pamphlet-square" style="grid-area: set1.2">
+
+                receiver1% iperf -s -u -B 225.1.2.4 -i 1<br>
+
+                - [-s] subscribes to multicast traffic<br>
+
+                - [-u] UDP protocol<br>
+
+                - [-B] binds address 225.1.2.4<br>
+
+                - [-i] interval 1s periodic bandwidth<br><br>
+
+ 
+
+                receiver2% iperf -s -u -B 225.1.2.4 -i 1<br>
+
+                - [-s] subscribes to multicast traffic<br>
+
+                - [-u] UDP protocol<br>
+
+                - [-B] binds address 225.1.2.4<br>
+
+                - [-i] interval 1s periodic bandwidth<br><br>
+
+ 
+
+                sender% iperf -c 225.1.2.4 -u -T 32 -t 3 -i 1<br>
+
+                - [-c] sends multicast traffic<br>
+
+                - [-u] UDP protocol<br>
+
+                - [-T] TTL 32 hops<br>
+
+                - [-t] 3s duration<br>
+
+                - [-i] interval 1s periodic bandwidth<br><br>
+
+ 
+
+                +++++++++++++++++++++++++++++++++++++++++++++++++++++<br><br>
+
+ 
+
+                router1(config)# ip multicast-routing<br><br>
+
+ 
+
+                router1(config)# interface range g0/2<br>
+
+                router1(config-if)# ip pim dense-mode<br>
+
+                ! enables multicast messages on WAN connection<br>
+
+                .<br>
+
+                .<br>
+
+                .<br>
+
+                router1(config)# int range g0/3 - 4<br>
+
+                router1(config-range)# ip pim dense-mode<br>
+
+                ! enables multicast messages on selected interfaces connected to host subscribers<br>
+
+                .<br>
+
+                .<br>
+
+                .<br>
+
+                ! repeat the same for router2<br>
+
+                .<br>
+
+                .<br>
+
+                .<br>
+
+                router1# show ip pim ne<br>
+
+                router1# show ip igmp groups<br>
+
+                router1# show ip mroute<br>
+
+                router1# show ip mroute active<br>
+
+                router1# show ip mroute count
+
+            </div>
+
+            <div class="pamphlet-square" style="grid-area: set1.3">Privilege Levels</div>
+
+            <div class="pamphlet-square" style="grid-area: set1.4">
+
+                router(config)# privilege exec level 5 show ip route<br>
+
+                router(config)# privilege exec level 5 configure terminal<br>
+
+                router(config)# privilege interface level 5 shut<br>
+
+                router(config)# privilege interface level 5 no shut<br><br>
+
+ 
+
+                router(config)# username [username] privilege 5 secret [password]
+
+            </div>
+
+            <div class="pamphlet-square" style="grid-area: set1.5">PIM-SM</div>
+
+            <div class="pamphlet-square" style="grid-area: set1.6">
+
+                receiver1% iperf -s -u -B 225.1.2.4 -i 1<br>
+
+                - [-s] subscribes to multicast traffic<br>
+
+                - [-u] UDP protocol<br>
+
+                - [-B] binds address 225.1.2.4<br>
+
+                - [-i] interval 1s periodic bandwidth<br><br>
+
+ 
+
+                receiver2% iperf -s -u -B 225.1.2.4 -i 1<br>
+
+                - [-s] subscribes to multicast traffic<br>
+
+                - [-u] UDP protocol<br>
+
+                - [-B] binds address 225.1.2.4<br>
+
+                - [-i] interval 1s periodic bandwidth<br><br>
+
+ 
+
+                sender% iperf -c 225.1.2.4 -u -T 32 -t 3 -i 1<br>
+
+                - [-c] sends multicast traffic<br>
+
+                - [-u] UDP protocol<br>
+
+                - [-T] TTL 32 hops<br>
+
+                - [-t] 3s duration<br>
+
+                - [-i] interval 1s periodic bandwidth<br><br>
+
+ 
+
+                +++++++++++++++++++++++++++++++++++++++++++++++++++++<br><br>
+
+ 
+
+                router1(config)# ip multicast-routing<br><br>
+
+ 
+
+                router1(config)# interface range g0/2<br>
+
+                router1(config-if)# ip pim sparse-mode<br>
+
+                .<br>
+
+                .<br>
+
+                .<br>
+
+                router1(config-if)# int loopback 1<br>
+
+                router1(config-if)# ip pim sparse-mode<br>
+
+                router1(config-if)# end<br>
+
+                router1(config)# ip pim send-rp-announce loopback 1 scope 2<br>
+
+                ! enables RP candidate messages from loopback 1 w/ scope of  2 TTL<br>
+
+                ! Best practice: use the loopback for RP candidate broadcasting<br>
+
+                ! highest IP will chosen for topologies with multiple RP candidates<br>
+
+                .<br>
+
+                .<br>
+
+                .<br>
+
+                router1(config)# in range g0/3 - 4<br>
+
+                router1(config-range)# ip pim sparse-mode<br>
+
+                .<br>
+
+                .<br>
+
+                .<br>
+
+                router2(config)# ip multicast-routing<br><br>
+
+ 
+
+                router2(config)# interface range g0/2<br>
+
+                router2(config-range)# ip pim sparse-mode<br>
+
+                .<br>
+
+                .<br>
+
+                .<br>
+
+                router2(config-range)# loopback 1<br>
+
+                router2(config-if)# ip pim sparse-mode<br>
+
+                router2(config-if)# ip pim send-rp-discovery loopback 1 scope 2<br>
+
+                ! enables RP mapping agent messages from loopback 1 w/ scope of  2 TTL<br>
+
+                .<br>
+
+                .<br>
+
+                .<br>
+
+                router2(config-if)# int range g0/3 - 4<br>
+
+                router2(config-range)# ip pim sparse-mode<br>
+
+                .<br>
+
+                .<br>
+
+                .<br>
+
+                router2# show ip pim ne<br>
+
+                router2# show ip mroute<br>
+
+                router2# show ip pim rp mapping<br>
+
+                router2# show ip mroute count
+
+            </div>
+
+            <div class="pamphlet-square" style="grid-area: set1.7">BGP</div>
+
+            <div class="pamphlet-square" style="grid-area: set1.8">
+
+                Activate BGP Neighbor<br><br>
+
+ 
+
+                C8KV-ENT-PEER2(config)# router bgp 65534<br>
+
+                C8KV-ENT-PEER2(config)# no neighbor 172.16.2.1 shutdown<br>
+
+                C8KV-ENT-PEER2(config)# end<br><br>
+
+ 
+
+                C8KV-ENT-PEER2# show run | s bgp<br>
+
+                C8KV-ENT-PEER2# show ip bgp summary<br>
+
+                C8KV-ENT-PEER2# show ip route<br><br>
+
+ 
+
+                ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++<br><br>
+
+               
+
+                Configure BGP<br>
+
+ 
+
+                C8KV-ENT-PEER2# conf t<br>
+
+                C8KV-ENT-PEER2(config)# router bgp 65534<br>
+
+                C8KV-ENT-PEER2(config-router)# neighbor 192.168.255.6 remote-as 65534<br>
+
+                C8KV-ENT-PEER2(config-router)# address-family ipv4<br>
+
+                C8KV-ENT-PEER2(config-router-af)# neighbor 192.168.255.6 activate<br>
+
+                C8KV-ENT-PEER2(config-router-af)# neighbor 192.168.255.6 next-hop-self<br>
+
+                ! ensures all routes have the local router address set as the next hop to avoid IBGP routing failure<br><br>
+
+ 
+
+                C8KV-ENT-PEER2# show run | s bgp<br>
+
+                C8KV-ENT-PEER2# show ip bgp summary<br>
+
+                C8KV-ENT-PEER2# show ip route<br><br>
+
+ 
+
+                C8KV-ENT-CORE# conf t<br>
+
+                C8KV-ENT-CORE(config)# router bgp 65534<br>
+
+                C8KV-ENT-CORE(config-router)# neighbor 192.168.255.5 remote-as 65534<br>
+
+                C8KV-ENT-CORE(config-router)# address-family ipv4<br>
+
+                C8KV-ENT-CORE(config-router-af)# neighbor 192.168.255.5 activate<br>
+
+                C8KV-ENT-CORE(config-router-af)# neighbor 192.168.255.5 next-hop-self<br><br>
+
+ 
+
+                C8KV-ENT-CORE# show run | s bgp<br>
+
+                C8KV-ENT-CORE# show ip bgp summary<br>
+
+                C8KV-ENT-CORE# show ip route<br><br>
+
+ 
+
+                ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++<br><br>
+
+ 
+
+                Add Local Netorks to AS<br><br>
+
+ 
+
+                C8KV-ENT-CORE(config-router)# network 192.168.0.0 mask 255.255.255.0<br>
+
+                .<br>
+
+                .<br>
+
+                .<br>
+
+                C8KV-ENT-CORE(config-router)# redistribute connected<br>
+
+                ! advertises LANs as apart of AS<br>
+
+                ! # redistribute [protocol] advertises routes learned from other protocols<br><br>
+
+ 
+
+                ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++<br><br>
+
+ 
+
+                Steer Outgoing Traffic<br><br>
+
+ 
+
+                C8KV-ENT-CORE# show ip route<br>
+
+                ! route to 10.9.0.0 via 192.168.255.1<br>
+
+                C8KV-ENT-CORE# show ip bgp 10.9.0.0/24 best-path-reason<br><br>
+
+ 
+
+                C8KV-ENT-PEER2# conf t<br>
+
+                ! intermediate router on the preferred path<br>
+
+                C8KV-ENT-PEER2(config)# route-map SET-LOCAL-PREF permit 10<br>
+
+                C8KV-ENT-PEER2(config-route-map)# set local-preference 200<br>
+
+                ! default preference is 100<br>
+
+                ! higher prreference takes precedence<br>
+
+                C8KV-ENT-PEER2(config-route-map)# exit<br>
+
+                C8KV-ENT-PEER2(config)# router bgp 65534<br>
+
+                C8KV-ENT-PEER2(config-router)# address-family ipv4<br>
+
+                C8KV-ENT-PEER2(config-router-af)# neighbor 172.16.2.1 route-map SET-LOCAL-PREF in<br>
+
+                ! route-map is applied to all received routes for neighbor 172.16.2.1(ISP2)<br>
+
+                C8KV-ENT-PEER2(config-router-af)# end<br>
+
+ 
+
+                C8KV-ENT-PEER2# show ip route<br>
+
+                ! verify changes<br>
+
+                ! route to 10.9.0.0 via 192.168.255.5<br>
+
+                C8KV-ENT-CORE# show ip bgp 10.9.0.0/24 best-path-reason<br><br>
+
+ 
+
+                ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++<br><br>
+
+ 
+
+                Communities<br><br>
+
+ 
+
+                C8KV-ISP1(config)# ip community-list 1 permit 64512:102<br>
+
+                C8KV-ISP1(config-route-map)# ip community-list 1 permit 64512:104<br>
+
+                C8KV-ISP1(config-route-map)# ip community-list 1 permit 64512:106<br><br>
+
+ 
+
+                C8KV-ISP1(config)# route-map PREPEND-AS permit 10<br>
+
+                C8KV-ISP1(config-route-map)# match community 1<br>
+
+                C8KV-ISP1(config-route-map)# set as-path prepend 64512 64512<br><br>
+
+ 
+
+                C8KV-ISP1(config)# route-map PREPEND-AS permit 20<br>
+
+                C8KV-ISP1(config-route-map)# match community 2<br>
+
+                C8KV-ISP1(config-route-map)# set as-path prepend 64512 64512 64512 64512<br><br>
+
+ 
+
+                C8KV-ISP1(config)# route-map PREPEND-AS permit 30<br>
+
+                C8KV-ISP1(config-route-map)# match community 3<br>
+
+                C8KV-ISP1(config-route-map)# set as-path prepend 64512 64512 64512 64512 64512 64512<br><br>
+
+ 
+
+                C8KV-ISP1(config)# route-map PREPEND-AS permit 40<br><br>
+
+                ! default action accept so routes with no community tag don't get dropped<br><br>
+
+               
+
+                C8KV-ISP1(config)# router bgp 64512<br>
+
+                C8KV-ISP1(config-router)# address-family ipv4<br>
+
+                C8KV-ISP1(config-router-af)# neighbor 172.16.31.2 route-map PREPEND-AS out<br><br>                
+
+ 
+
+                ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++<br><br>
+
+ 
+
+                Steer Incoming Traffic<br><br>
+
+ 
+
+                C8KV-ENT-ISP9# show ip bgp 192.168.0.0 best-path-reason<br>
+
+                ! route to 192.168.0.0 via 172.16.31.1<br>
+
+                ! best path is currently AS 64512 65534<br>
+
+ 
+
+                C8KV-ENT-PEER1(config)# route-map SET-COMMUNITY permit 10<br>
+
+                ! sets the 64512:104 community on the edge router for the AS 65534<br> 
+
+                C8KV-ENT-PEER1(config-route-map)# set community 64512:104 additive<br>
+
+                ! additive adds the community without overwriting the others<br>
+
+                C8KV-ENT-PEER1(config-route-map)# router bgp 65534<br>
+
+                C8KV-ENT-PEER1(config-route-map)# address-family ipv4<br>
+
+                C8KV-ENT-PEER1(config-route-map-af)# neighbor 172.16.1.1 route-map SET-COMMUNITY out<br>
+
+                ! route-map is attached to the outgoing direction to the ISP1 neighbor(AS 64512)<br>
+
+                C8KV-ENT-PEER1(config-route-map-af)# neighbor 172.16.1.1 send-community<br><br>
+
+ 
+
+                C8KV-ISP1# show ip bgp 192.168.0.0<br>
+
+                ! verify send-community worked<br>
+
+                ! Community: [64512:104]<br>
+
+                C8KV-ISP1# show ip bgp 192.168.0.0 best-path-reason<br>
+
+            </div> 
+
+          </div> 
+
+        </div>
+
+    </body>
+
+</html> 

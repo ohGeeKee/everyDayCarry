@@ -1,0 +1,51 @@
+.pamphlet {
+
+ 
+
+    display: grid;
+
+    grid-template-columns: 20em 20em;
+
+    grid-template-rows: 10em 10em 10em;
+
+    gap: .01em;
+
+    grid-template-areas:
+
+    "set1 set2" 
+
+    "set1 set3"
+
+    "set1 set4"
+
+    "set5 set6";
+
+    justify-content: center;
+
+    align-content: center;
+
+   
+
+}
+
+ 
+
+.pamphlet-square {
+
+ 
+
+    border: .01em solid black;
+
+    align-items: center;
+
+    justify-items: center;
+
+    padding: 2em;
+
+    align-content: center;
+
+    justify-content: center;
+
+    box-sizing: border-box;
+
+}

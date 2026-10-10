@@ -1,0 +1,341 @@
+.pamphlet {
+
+   
+
+    display: grid;
+
+    grid: 50em / 30em 30em;
+
+    row-gap: 1em;
+
+    column-gap: 10em;
+
+ 
+
+}
+
+ 
+
+.pamphlet-square {
+
+ 
+
+    border: .01em solid black;
+
+    align-items: center;
+
+}
+
+ 
+
+ 
+
+<!-- miro: .html/.css/.js site -->
+
+ 
+
+<div class="grid-container#">
+
+                <div class="item#" style="grid-area: box1">
+
+                <div class="item#" style="grid-area: box2">            
+
+                <div class="item#" style="grid-area: box3">
+
+                <div class="item#" style="grid-area: box4">
+
+ 
+
+.grid-containerBentoGrids {
+
+                display: grid;
+
+                grid-template-columns: 200px 200px 200px 200px;
+
+                grid-template-rows: 200px 200px;
+
+                gap: 1em;
+
+                grid-template-areas:
+
+                "box1 box2 box2 box3"
+
+                "box1 box4 box4 box4";
+
+                <!-- more direct control over grid element shape(lookup bento trays // same concept but for webpages) -->
+
+                /* comment designation for .CSS*/
+
+                /* [.](period) STANDS FOR EMPTY CELL IN GRID-TEMPLATE-AREAS*/
+
+                /* do not use period, causes syntax errors*/
+
+                /*set1 set2
+
+                  .    set3*/
+
+}
+
+@media(max-width: 56em){
+
+                .grid-containerBentoGrids{
+
+                                grid-template-columns: 200px 200px 200px;
+
+                                grid-template-rows: 200px 200px 200px;
+
+                                grid-template-areas:
+
+                                "box1 box1 box2"
+
+                                "box1 box1 box3"
+
+                                "box4 box4 box4";
+
+                }
+
+}
+
+<!-- adjust grid layout depending on window size -->
+
+ 
+
+@media(max-width: 42em){
+
+                .grid-containerBentoGrids{
+
+                                grid-template-columns: 200px 200px;
+
+                                grid-template-rows: 200px 200px 200px 200px;
+
+                                grid-template-areas:
+
+                                "box1 box1"
+
+                                "box2 box3"
+
+                                "box4 box4";
+
+                }
+
+}
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ 
+
+<div class="grid-container#">
+
+                <div class="item#">
+
+                <div class="item#"> 
+
+                <div class="item#">
+
+                <div class="item#">
+
+ 
+
+.grid-container5 {
+
+                display: grid;
+
+                grid-template-columns: 300px 300px 300px;
+
+                grid-template-rows: 300px 300px 300px;
+
+                grid-auto-rows: 300px;
+
+                                <!-- controls auto-generated row size -->
+
+                gap: 1em;
+
+}
+
+ 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+.grid-container4 {
+
+                display: grid;
+
+                grid-template-columns: 300px 300px 300px;
+
+                                <!-- change pixel counts adjusts the entire columns width -->
+
+                grid-template-rows: 300px 300px 300px;
+
+                                <!-- change pixel counts adjusts the entire columns height -->
+
+                gap: 1em;
+
+                justify-items:[start | end | center];
+
+                                <!-- horizontal alignment -->
+
+                align-items:[start | end | center];
+
+                                <!-- vertical alignment -->
+
+                justify-content: center;
+
+                                <!-- centers grid horizontally on the webpage -->
+
+                align-content: center;
+
+                                <!-- centers grip vertically on the webpage -->
+
+}
+
+ 
+
+.item4 {
+
+                height: 100px;
+
+                <!-- content no longer fills the grid square -->
+
+                width: 100px;
+
+                padding: 2em;
+
+                font-size: 2rem;
+
+}             
+
+ 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ 
+
+.grid-container3 {
+
+                display: grid;
+
+                grid-template-columns: 300px 1fr;
+
+                                <!-- sidebar setup w/ responsive content section -->
+
+                grid-template-rows: 100vh;
+
+                                <!-- requires height declaration for initial size -->
+
+                gap: 1em;
+
+}
+
+ 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ 
+
+.grid-container2 {
+
+                display: grid;
+
+                height: 800px
+
+                grid-template-columns: 1fr 1fr 1fr;
+
+                                <!-- more responsive to window size -->
+
+                grid-template-rows: 1fr 1fr 1fr;
+
+                                <!-- requires height declaration for initial size -->
+
+                gap: 1em;
+
+}
+
+ 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ 
+
+.grid-container1 {
+
+                display: grid;
+
+                grid-template-columns: 200px 200px 200px;
+
+                                <!-- change pixel counts adjusts the entire columns width -->
+
+                grid-template-rows: 200px 200px 200px;
+
+                                <!-- change pixel counts adjusts the entire columns height -->
+
+                gap: 1em;
+
+}
+
+ 
+
+ 
+
+.item1 {
+
+                padding: 2em;
+
+                font-size: 2rem;
+
+}             
+
+ 
+
+ 
+
+EveryDayCarryActual.css
+
+ 
+
+ 
+
+.pamphlet {
+
+   
+
+    display: grid;
+
+    grid-template-columns: auto 50em;
+
+    grid-template-rows: auto;
+
+    gap: .01em solid black;
+
+    grid-template-areas:
+
+    "set1.1 set1.2" 
+
+    "set1.3 set1.4"
+
+    "set1.5 set1.6"
+
+    "set1.7 set1.8";
+
+    justify-content: center;
+
+    align-content: center;
+
+   
+
+}
+
+ 
+
+.pamphlet-square {
+
+ 
+
+    border: .01em solid black;
+
+    align-content: center;
+
+    justify-content: center;
+
+ 
+
+}
