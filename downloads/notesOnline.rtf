@@ -26,6 +26,9 @@
 \f0\fs24 \cf0 Links\
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 \cf0 \
+	https://learnbyexample.github.io/learn_gnuawk/cover.html\
+		- % awk manual\
+	\
 	https://eicar.org\
 		- sample malware file for NetSec labbing\
 	\
@@ -395,32 +398,204 @@ Keys\
 \
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
 \cf0 \cb1 \CocoaLigature1 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\
+\
+History \
+\
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\
+\
+	% !13\
+		! recalls commands from history entry [13]\
+	\
+	% history -30\
+		! displays the last 30 entries\
+\
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\
+\
+Variables, Arrays, Hashtables, Special Characters\
+\
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\
+\
+	% variable=\'93testString\'94\
+	\
+	% unset variable\
+		! clears stored value for $variable\
+\
+	% echo $variable\
+		! displays empty value for $variable\
+\
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\
+\
+	% arr=()\
+		! declares an empty array \'93arr\'94\
+	\
+	% arr=(foo bar baz)\
+		! declares an array with three values\
+		% echo $\{#arr[@]\}\
+			! displays the element count [#] for the array [arr] \
+			! displays the value \'933\'94\
+		% echo $\{arr[0]\}\
+			! displays index 0 	\
+			! displays the element \'93foo\'94\
+\
+	% printf \'91%s\\n\'92 foo bar baz\
+		! displays elements [%s] \'93foo bar baz\'94 separated by new lines [\\n] \
+\
+	% printf \'91%s\\n\'92 \'93$\{arr[@]\}\'94\
+			! correct syntax for iteration over elements in array with formating \
+	\
+	% IFS=,\
+	% echo \'93$\{arr[*]\}\'94\
+	% unset IFS\
+		! input field separator\
+		! sets joining delimiter to [,] when iterating the elements of an array into a string\
+		! unsets IFS for future usage with other delimiters\
+		**(IFS = ,; echo \'93$\{arr[*]\}\'94)\
+			! future prove syntax with identical functionality 	\
+\
+	**CHEAT SHEET:\
+		@ ///  <- iterates elements\
+		* ////// <- stringifies elements\
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\
+\
+	% declare -A arr\
+		! declares variable [arr] as an associative array\
+	% arr[foo]=1\
+		! declares value [1[ of element [foo]\
+		% arr[bar]=2\
+	% echo \'93\{arr[foo]\}\
+		! index into the array [arr] as position [foo] to return its value\
+	\
+	% printf \'91%s\\n\'92 \'93$\{arr[@]\}\'94\
+		! displays values [%s] \'931 2 3\'94 separated by new lines [\\n] \
+\
+	% printf \'91%s\\n\'92 \'93$\{!arr[@]\}\'94\
+		! displays indices [%s] \'93foo bar baz\'94 separated by new lines [\\n] \
+		\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\
+\
+	% \'85/n	\
+		! newline\
+	\
+	% \'85/t\
+		! tab(blank space)\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 		\
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\
+\
+Unique\
+\
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\
+\
+	% cat ./testFile | awk -F : \'91\{printf(\'93%s has shell %s\\n\'94, $1, $7) ; \}\'92  | sort | uniq\
+		! outputs unique entries only(NO RELICATED ENTRIES)\
+	\
+		% cat ./testFile | awk -F : \'91\{printf(\'93%s has shell %s\\n\'94, $1, $7) ; \}\'92  | sort | uniq -c\
+			! outputs unique entries with a frequency count [-c]\
+\
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\
+\
+Sort\
+\
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\
+\
+	% cat ./testFile | awk -F : \'91\{printf(\'93%s has shell %s\\n\'94, $1, $7) ; \}\'92  | sort \
+		! sorts the data into alphabetical order \
+\
+	% awk '\{FS="," ; OFS="," ; print $1,$2,$30,$24\}' ./fantasyPerGame.csv | sort -t "," -k4,4gr\
+		! identifies the delimiter[-t]\
+		! sets the key [-k]\
+		! sorts in numerical order [g] in reverse [r]\
+\
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\cf2 \cb3 \CocoaLigature0 \
+\cf0 \cb1 \CocoaLigature1 \
+Awk\
+\
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\
+\
+	% cat ./testFile | awk \'91\{ print $0 \}\
+		! prints lines in their entirety \
+		\
+		% cat ./testFile | awk \'91\{ print $1 \}\'92\
+			! prints first field of each line \
+		\
+		% cat ./testFile | awk -F : \'91\{ print $1 \}\'92\
+			! prints each line treating [:] as the delimiter\
+			** default is a single space\
+		\
+		% cat ./testFile | awk -F : \'91\{printf(\'93%s has shell %s\\n\'94, $1, $7) ; \}\'92\
+			ex. root has shell /bin/bash\
+			! investigate this syntax ?\
+\
+		% cat ./testFile | awk -F : \'91 $1 == \'93testField\'94 \{printf(\'93%s has shell %s\\n\'94, $1, $7) ; \}\'92\
+			ex. testField has shell /bin/bash\
+			! investigate this syntax ?\
+\
+	% awk '\{FS="," ; OFS="," ; print $1,$2,$30,$24\}' ./fantasyPerGame.csv \
+		! displays 4 fields of each record from the table provided\
+		! ackowledges the field separatro [FS] and replaces it with another [OFS]	\
+\
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\
+\
+Sed(stream editor)\
+\
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\
+\
+\
+	% cat ./testFile | sed \'92s/testField/replacement/\'91\
+		! searches file for target \'94testField\'94\
+		! replaces target with \'93replacement\'94\
+		**changes what prints to the screen(DOES NOT MAKE FILE CHANGES)\
+		\
+		% sed \'92s/testF\'85d/replacement/\'91\
+			! [.] represents \'93some character\'94 as opposed to rigid input\
+	\
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\
+\
+ Cut\
+\
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\
+\
+	% cat ./testFile | cut -d : -f 1 \
+		! displays contents of file \'93testFile\'94\
+		! separates string at character \'93:\'94\
+		! begins display at field \'931\'94 which is the user name in this case\
+		**does not require cat for function\
+	\cf2 \cb3 \CocoaLigature0 \
+\cf0 \cb1 \CocoaLigature1 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\
 \
 Help(built-ins)\
 \
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
-\cf0 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\
 \
 	bash% help [built-in]	\
 		! displays manual info for built in commands \
 		! be sure to switch to bash prior to issuing the command\
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
-\cf0 	\
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
-\cf0 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\
+	\
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
-\cf0 \
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\
+\
 Translate\
 \
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
-\cf0 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\
 \
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
-\cf0 	% echo $PATH | tr : \'91\\n\'92\
+	% echo $PATH | tr : \'91\\n\'92\
 		! translates[tr] outputs colons to new lines[\\n]\
 		! [$] tells the terminal that the following is a variable and to read its contents into the comand line \
+		**best used w/ scripting boundaries for safety\
 \
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\
@@ -1437,7 +1612,7 @@ Sudo Code & Scripting\
 \
 	repeat \
  	\
-	**commands are represented with their preceeding deliminator(config#; %)\
+	**commands are represented with their preceeding delimiter(config#; %)\
 	**scripts uses, but with different context \
 \
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\
