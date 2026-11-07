@@ -1,0 +1,6163 @@
+Links
+
+	https://public.cyber.mil
+		- army pki information	
+
+	https://learnbyexample.github.io/learn_gnuawk/cover.html
+		- % awk manual
+	
+	https://eicar.org
+		- sample malware file for NetSec labbing
+	
+	https://badssl.com
+		- PKI cert testing/labbing resource
+	
+	https://zsh.sourceforge.io/Doc/Release/
+		- zShell manual
+	
+	https://en.wikipedia.org/wiki/Programming_language	
+		- programming language
+
+	https://en.wikipedia.org/wiki/Scripting_language
+		- list of scripting languages/extensions	
+
+	https://en.wikipedia.org/wiki/List_of_file_signatures
+		- list of file signatures(hexdumps)	
+
+	https://www.cve.org 
+		- tracks common vulnerabilities and exploits 
+		- labled CVE-[year]-[number]
+		- organized by severity using Common Vulnerability Scoring System(CVSS)
+
+	https://www.owasp.org/Top10/2025/
+		- tracks common web vulnerabilities
+
+	https://www.cisco.com/c/en/us/solutions/collateral/enterprise/design-zone-security/zt-ag.html
+		- ZTNA guide 
+	
+	https://www.cisco.com/c/en/us/solutions/collateral/enterprise/design-zone-security/safe-overview-guide.html
+		- SAFE Guide
+
+	https://github.com/CiscoDevNet/python_code_samples_network/tree/master/RESTCONF
+		- RESTCONF python code examples
+
+	https://www.ascii-code.com/
+		- ascii code understanding chart
+
+	https://www.cisco.com/c/en/us/products/collateral/security/security-cloud-control/datasheet-c78-736847.html
+		- Security Cloud Control Data Sheet
+
+	***https://www.cisecurity.org/cis-benchmarks***
+		- CIS Benchmarks
+			**device security best practices & configs
+
+	https://www.nist.gov/publications/guide-ipsec-vpns
+		- tech pubs
+		- read  understanding, follow up w/ vendor guides for implementation
+
+	https://vscode.dev
+		- open source scripting environment
+
+	https://github.com/AdiH8/Active-Directory-Lab
+
+        https://manpages.ubuntu.com/ 
+		- linux language
+       
+        rdweb.wvd.azure.us
+        
+        https://client.wvd.azure.us/arm/webclient/index.html
+
+        http://armylinks.com
+
+        https://akooffline.us
+
+        https://armypubs.army.mil/
+
+        https://lwn.army.mil/
+	
+        https://github.com/GNS3/gns3-gui/releases
+
+        https://www.sysnettechsolutions.com/en/cisco-ios-download-for-gns3/
+
+        https://learn.microsoft.com/en-us/
+		- /docs/
+		- /powershell/
+		- /windows-server/
+		- /windows/
+     
+        https://www.iragreen.com/
+	
+	https://docs.brew.sh
+
+        overTheWire path: /tmp/hardToGuessName/
+
+
+
+Scrum?
+Agile?
+
+
+
+
+Re-Up Bonus: tax free-overseas
+
+
+
+
+Certifications(10pts per cert•per class): [CCNP Security][SERVER+][A+]
+	
+	- education tools: compTIA - udemy
+
+	- Sgt Oliver(automations) - list of correspondence classes 
+
+
+
+
+MEMORIZE THESE STUDY RESOURCES
+	
+	- Configuring an MPLS Network from Scratch: Kevin Wallace Training, LLC ~~~ youtube
+
+	- CCNA Topics(playlist): Kevin Wallace Training, LLC ~~~ youtube 
+
+	- CCNA Routing & Switching Packet Tracer Labs ~~~ youtube
+
+	- Free CCNA v1.1 200-301 | Complete Course 2025 ~~~ youtube 
+
+	- SAA ~~~ teambook 
+	
+	- ASA ~~~ teambook 
+
+	- SYSTEMS ~~~ finder 	
+	
+	- Multicast vs. Broadcast vs. Anycast vs. Unicast ~~~ https://www.baeldung.com/cs/multicast-vs-broadcast-anycast-unicast
+	
+	- GNS3: Start here if you are new to GNS3 ~~~ https://www.youtube.com/playlist?	list=PLhfrWIlLOoKNFP_e5xcx5e2GDJIgk3ep6
+	
+	- Resources - Cisco Reference Articles ~~~ https://www.connecteddots.online/resources/cisco-reference
+	
+	- How VRFs Work in and MPLS Network ~~~ https://www.youtube.com/watch?v=_zjH0o1RlKI
+	
+	- GRE Tunnel Idea ~~~ youtube(playlist•VPC Network)
+
+	- 7 Multipoint GRE mGRE Tunnel ~~~ https://www.youtube.com/watch?v=U5A6GqMyNW4
+
+	- 5 Encrypting GRE Tunnels using IPSec ~~~ https://www.youtube.com/watch?v=Ef9W8dO9Ar8
+
+	- 8 Configuring DMVPN - Phase 1 ~~~ https://www.youtube.com/watch?		v=CRA3uAxHLZM&list=PLI5_9Il6uSzIHf3-1wNvzwSjuUVd4H07D&index=1&t=3s
+
+	- How TCP really works: MTU vs MSS ~~~ https://www.youtube.com/watch?v=J-gnDC6B5eE&t=987s
+
+	- basic CMD/TERMINAL commands ~~~ https://gist.github.com/carlessanagustin
+
+
+
+
+armyRemoteDesktop DN: rdweb.wvd.azure.us
+
+https://learn.atis.army.mil: learn army domain systems
+
+https://ncolcoe.llc.army.mil: blackboard url
+
+https://atn.army.mil: training database
+
+https://ncolcoe.llc.army.mil: BLC blackboard 
+
+https://newserverlife.com: use to build server(then shop used)
+
+https://savemyserver.com: use to build server(then shop used)
+
+https://microcenter.com: use to build server(then shop used)
+
+https://wiresoft.us: software/hypervisor licences
+
+https://visiocafe.com: network/cable/wiring/rack diagraming
+
+https://gns3.com/marketplace/appliances: vms 
+
+
+
+
+TCP/IP Port Document - iana.org/assignments/service-names-port-numbers/service-names-port-numbers.html
+
+
+
+
+Hardware Tests
+
+	Stress Testing: Cinebench
+
+	Benchmarking: 3D Mark 
+
+
+
+
+C2: command and control(C&C)
+	
+	- handlers and bots
+
+
+
+
+Agents: software packages - primarily meant for networking services - installed to promote connectivity/aggregation for remote devices 
+
+
+
+
+Protocol Independent Multicast(PIM)
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+PKI Certificates Rundown
+
+	- A ////// B 
+		- simple packet
+
+	- how to ensure only B reads 
+		- encrypt with B public key
+		- only B can decrypt with private key
+
+	- how to ensure message is unaltered
+		- hash message and append to message encrypted with B public key 
+		- decrypted message will match the hash of As plain texted trasmission
+
+	- how to ensure sender nonrepudiation(signature) - along with aforementioned security provisions 
+		- hash message, sign hash with A private key, append to message encrypted with B public key 
+		- decrypted with As public key, the resulting hash matches that of As plain text transmission
+
+	- how to ensure sender integrity(certificate)
+		- register PKI with a certificate authority 
+		- third party ensures signer identity and credential validity/revocation
+
+	- how to ensure CA safe exchanges
+		- utilizing common or CAs for A ////// B secure messaging
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+FUOPS - future operations 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+LTT Framework(refer to BLC LTT rubric)
+
+	- present the use case
+
+	- solve the use case
+
+	- explain the components of the solution
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+		
+	- simplest use case to most complicated 
+
+	- 2 practical exercises and an evaluation should suffice 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Basic IT Analogies
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	- network address: streetname
+	
+	- broadcast: message board/neighborhood group chat
+
+	- gateway: mail room
+
+	- multicast: social media
+
+	- anycast: proximal services(like food & goods delivery)
+
+	- unicast: mail 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Seamless Wireless LAN Swap
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	- retain SSID
+
+	- retain password
+
+	- retain security protocol
+	
+	- retain LAN architecture
+		- dhcp scope & vlans
+	
+	- retain port forwarding 	
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Traffic Testing Tools
+	
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	iperf.fr
+		- simple client/server agents + large file transfer stress test 
+
+	linux.die.net/man/1/ttcp
+
+	bwping.sourceforge.io
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Packet Capture Tools
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	tcpdump.org
+
+	ngrep(github.com/jpr5/ngrep)
+		- supports use of regular expressions found on regexr.com
+
+	nmap.org/ncat
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Keys
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	x^n = P
+		x = # of available digits
+		n = key length 
+		P = total choices possible
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Pseudocode
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	1. Understand the problem 
+	2. Break down the problem into smaller steps
+	3. Write out the steps in human readable statements
+	4. Test the pseudocode
+	5. Translate into actual code w/ steps as comments
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+History 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	% !13
+		! recalls commands from history entry [13]
+	
+	% history -30
+		! displays the last 30 entries
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Variables, Arrays, Hashtables, Special Characters
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	% variable=“testString”
+	
+	% unset variable
+		! clears stored value for $variable
+
+	% echo $variable
+		! displays empty value for $variable
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	% arr=()
+		! declares an empty array “arr”
+	
+	% arr=(foo bar baz)
+		! declares an array with three values
+		% echo ${#arr[@]}
+			! displays the element count [#] for the array [arr] 
+			! displays the value “3”
+		% echo ${arr[0]}
+			! displays index 0 	
+			! displays the element “foo”
+
+	% printf ‘%s\n’ foo bar baz
+		! displays elements [%s] “foo bar baz” separated by new lines [\n] 
+
+	% printf ‘%s\n’ “${arr[@]}”
+			! correct syntax for iteration over elements in array with formating 
+	
+	% IFS=,
+	% echo “${arr[*]}”
+	% unset IFS
+		! input field separator
+		! sets joining delimiter to [,] when iterating the elements of an array into a string
+		! unsets IFS for future usage with other delimiters
+		**(IFS = ,; echo “${arr[*]}”)
+			! future prove syntax with identical functionality 	
+
+	**CHEAT SHEET:
+		@ ///  <- iterates elements
+		* ////// <- stringifies elements
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	% declare -A arr
+		! declares variable [arr] as an associative array
+	% arr[foo]=1
+		! declares value [1[ of element [foo]
+		% arr[bar]=2
+	% echo “{arr[foo]}
+		! index into the array [arr] as position [foo] to return its value
+	
+	% printf ‘%s\n’ “${arr[@]}”
+		! displays values [%s] “1 2 3” separated by new lines [\n] 
+
+	% printf ‘%s\n’ “${!arr[@]}”
+		! displays indices [%s] “foo bar baz” separated by new lines [\n] 
+		
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	% …/n	
+		! newline
+	
+	% …/t
+		! tab(blank space)
+		
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Unique
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	% cat ./testFile | awk -F : ‘{printf(“%s has shell %s\n”, $1, $7) ; }’  | sort | uniq
+		! outputs unique entries only(NO RELICATED ENTRIES)
+	
+		% cat ./testFile | awk -F : ‘{printf(“%s has shell %s\n”, $1, $7) ; }’  | sort | uniq -c
+			! outputs unique entries with a frequency count [-c]
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Sort
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	% cat ./testFile | awk -F : ‘{printf(“%s has shell %s\n”, $1, $7) ; }’  | sort 
+		! sorts the data into alphabetical order 
+
+	% awk '{FS="," ; OFS="," ; print $1,$2,$30,$24}' ./fantasyPerGame.csv | sort -t "," -k4,4gr
+		! identifies the delimiter[-t]
+		! sets the key [-k]
+		! sorts in numerical order [g] in reverse [r]
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Awk
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	% cat ./testFile | awk ‘{ print $0 }
+		! prints lines in their entirety 
+		
+		% cat ./testFile | awk ‘{ print $1 }’
+			! prints first field of each line 
+		
+		% cat ./testFile | awk -F : ‘{ print $1 }’
+			! prints each line treating [:] as the delimiter
+			** default is a single space
+		
+		% cat ./testFile | awk -F : ‘{printf(“%s has shell %s\n”, $1, $7) ; }’
+			ex. root has shell /bin/bash
+			! investigate this syntax ?
+
+		% cat ./testFile | awk -F : ‘ $1 == “testField” {printf(“%s has shell %s\n”, $1, $7) ; }’
+			ex. testField has shell /bin/bash
+			! investigate this syntax ?
+
+	% awk '{FS="," ; OFS="," ; print $1,$2,$30,$24}' ./fantasyPerGame.csv 
+		! displays 4 fields of each record from the table provided
+		! ackowledges the field separatro [FS] and replaces it with another [OFS]	
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Sed(stream editor)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+	% cat ./testFile | sed ’s/testField/replacement/‘
+		! searches file for target ”testField”
+		! replaces target with “replacement”
+		**changes what prints to the screen(DOES NOT MAKE FILE CHANGES)
+		
+		% sed ’s/testF…d/replacement/‘
+			! [.] represents “some character” as opposed to rigid input
+	
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ Cut
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	% cat ./testFile | cut -d : -f 1 
+		! displays contents of file “testFile”
+		! separates string at character “:”
+		! begins display at field “1” which is the user name in this case
+		**does not require cat for function
+	
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Help(built-ins)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	bash% help [built-in]	
+		! displays manual info for built in commands 
+		! be sure to switch to bash prior to issuing the command
+	
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Translate
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	% echo $PATH | tr : ‘\n’
+		! translates[tr] outputs colons to new lines[\n]
+		! [$] tells the terminal that the following is a variable and to read its contents into the comand line 
+		**best used w/ scripting boundaries for safety
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Homebrew Install
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	% /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+	% echo >> /Users/dunnkymani/.zprofile
+    
+	% echo 'eval "$(/opt/homebrew/bin/brew shellenv zsh)"' >> /Users/dunnkymani/.zprofile
+   
+	% eval "$(/opt/homebrew/bin/brew shellenv zsh)"
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Git Basics
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	% brew install git
+
+	% git config --global user.name "ohGeeKee"
+
+	% git config --global user.email "yaiu0472@gmail.com"
+
+	% git config --list 
+	
+	% git init
+		! current directory becomes git repository
+		**best practice is to create a new directory prior
+
+	% git status 
+
+	% git add 
+		! stages repository unchecked changes
+	
+	% git add .
+		! stages all changes
+		% git add test.txt
+		! stages specific files 
+
+	% git rm --cached <filename>
+		! unstaged the added filename 
+
+	% git commit -m “name of changes”
+		! saves changes to branch
+
+	% git clone https://github.com/ohGeeKee/testRepository.git
+		! grabs a copy of the target repository for local access
+	
+	% git checkout -b newBranchName
+		! creates and switches to new branch
+	
+	% git branch
+		! displays branches in repository 
+
+	% git branch -d <branch name>
+		! deletes the target branch from the repository LOCALLY
+		! mustn’t be in the target branch for deletion
+
+	% git push -d <remote name> <branch name>
+
+	% git switch main
+		! returns to main branch
+		% git switch newBranchName 
+
+	% git remote add origin 		
+		! targets github repository for push changes via HTTPS
+		% git remote -v 
+			! verifies target repository
+			**target repository has to exist on GitHub for push completion
+	% ls -al ~/.ssh
+		! checks for existing ssh keys as password auth has been obsoleted 
+
+	% ssh-keygen -t ed25519 -C “yaiu0472@gmail.com”
+		! creates a new key pair for GitHub interactions
+
+	% eval “$(ssh-agent -s)”
+		! output: Agent pid #####
+		! starts ssh agent in the background on port #####
+	
+	% open ~/.ssh/config
+		! checks for the file where keys are automatically loaded and passphrases are stored
+
+	% nano config
+		! Host github.com
+  		!	AddKeysToAgent yes
+  		!	UseKeychain yes
+  		!	IdentityFile ~/.ssh/id_ed25519
+		! ## creates a SSH config file
+		! ## automatically loads keys/passphrases into the ssh agent
+	
+	% ssh-add --apple-use-keychain ~/.ssh/id_ed25519
+		! appends passphrase to ssh-agent using keychain
+
+	% git push origin main
+		! [main] interchangeable with any branch 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+SSH
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	% ssh bandit.labs.overthewire.org -p 2220
+		- TCP SYN sent to site on port 
+		- [-p] specifies port 2220
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+trailing slashes
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	% cp -r /source /destination
+		ex. copy the source directory itself and its contents 
+		
+	% cp -r /source/ /destination
+		ex. copy ONLY the contents of the source 
+		**source contains trailing slash 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+rsync
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	- secure network and local file transfer over SSH
+
+	- equipped with “synching”  mechanisms, which check destination and perform delta transfers
+		**delta transfer: existing files remain, thereby only copying the differences over 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	% rsync -rv --dry-run notes jay@10.10.10.218:/home/jayRemote/backup
+		- copies directory “notes” to directory located on remote user “jay” system at 10.10.10.218
+		- [-r] recursive for directory copies
+		- [-v] displays task dialogue
+		- [--dry-run] simulates file transfer output without remote system execution
+			**remove to execute 
+	
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+grep
+	
+	- search file for term
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	% grep -i file ./containsTheWordFile.txt
+		- searches file for the word “file”
+		- [-i] case insensitive
+
+	% grep -r file ./directory/multipleFiles
+		- searches directory for the instances of the word “file”
+		- [-r] searches recursively 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Hostname & scutil
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	% hostname 
+		- prints system hostname
+	
+	% hostname beastie.localdomain.org
+		- set hostname to string following command
+		**resets upon reboot	
+	
+	% scutil --set Hostname beatie.localdomain.org
+		- sets hostname to “beastie.localdomain.org” perpetually
+ 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Display Free Disk Space 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	% df -h 
+		- displays volumes and memory statistics
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Basic system information
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	% system_profiler
+		- displays basic system information
+		**pair with tab completion for more specified output 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	% curl ifconfig.me
+		- displays public ip 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	>systeminfo
+		- windows computer system info 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Powershell Basics 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	>Get-PSDrive
+		- returns all drives on the computer
+
+	>Get-PSDrive -PSProvider Filesystem
+		- returns only drives with a filesystem 
+
+	>Get-ChildItem
+		- lists files in the directory 
+		>Get-ChildItem c:\test
+			- lists files in the directory of an absolute/relative path 
+
+	>Set-Location c:\Test
+		- change directory 
+
+	>New-Item -ItemType Directory -Path c:\ -Name Test2
+		- creates directory “Testw” on c: drive 
+	
+	>New-Item -ItemType File -Path c:\Test2 -Name testfile1.txt -Value “This is my file”
+		- creates file “testfile1.txt” containing the text “this is my file” in the directory Test2 
+		>Set-Content -Path c:\Test2\testfile1.txt -Value “This is replaced value”
+			- changes textfile1.txt contents to “This is replaced value”
+
+	>Get-Item testfile1.txt
+		- returns file information
+
+	>Get-Content textfile1.txt
+	 	- return file contents 
+		>Get-Content testfile1.txt | Out-Gridview
+			- opens contents in text editor 
+		>Get-Content testfile1.txt | Out-Printer 
+			- generates save-as prompt
+
+	>Remane-Item -Path c:\Test2 -NewName Test3
+		- changes directory name from “Test2” to “”Test3
+		**be sure to navigate away from Test2 before issuing the command as name will not change while directory is active   
+
+	>Copy-Item -Path c:\test\testfile2.txt -Destination c:\Test3 
+		- copies “testfile2.txt” to directory “Test3”  
+		
+	>Move-Item -Path c:\test\testfile4.txt -Destination c:\Test3
+		- moves file “testfile4.txt” to directory “Test3”
+
+	>Move-Item -Path c:\test\testfile2.txt -Destination c:\Test3\testfile5.txt
+		- moves and renames file “tesfile2.txt” to “testfile5.txt” located in directory “Test3”
+
+	>Remove-Item c:\Test3\testfile2.txt 
+		- deletes file testfile2.txt
+
+	>Get-Command
+		- lists available commands
+		>Get-Command -CommandType cmdlet
+			- lists available cmdlets 
+		>Get-Command *Item
+			- lists available commands containing the word “Item”
+
+	>Get-Help Move-Item
+		- returns manual  
+		>Get-Help Move-Item -Example	
+			- returns manual listing and example of the commands use 
+
+	>Get-Process
+		- returns current processes
+		
+	>Get-Service 
+		- running services 
+
+	>Get-Process Notepad
+		- returns information regarding the process named “Notepad”
+
+	>Stop-Process -Name Notepad
+		- ends process “Notepad”
+ 		>Stop-Process -Id 108576 -Confirm -Passthru
+			- ends process associated with ID “108576”
+
+	>Get-WindowsDriver -Online -All
+		- returns installed and running drivers  
+		>Export-WindowsDriver -Online -Destination e:\Test\DriveBackup
+			- snapshots drivers to directory “DriveBackup”
+	
+	>Start-MPScan -ScanType QuickScan -ScanPath e:\OldDocs
+		- malware scan of directory “OldDocs”
+
+	>test-netconnection 192.168.2.1 -port 21 -traceroute  
+		- tests host at 192.168.2.1 for FTP connectivity
+		- uses ICMP echos to display hops between source and destination
+			**useful for troubleshooting connectivity issues(FWH/ACL intervention) 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	
+mDNS
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	% log stream --info --predicate 'process == "mDNSResponder"'
+		- displays log on mDNSResponder activity 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	% nano /etc/pf.conf
+	
+	[inside packet filtering document]
+		
+		block drop out proto udp from any to 224.0.0.251 port 5353
+		block drop out proto udp from any to ff:02:gb port 5353	
+	
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+nettop
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	% nettop -m tcp -P
+		- displays list of sockets(-m tcp), tcp
+		- per-process summary(-P)
+		**bandwidth information per connection
+
+	%nettop -n -m udp -t wifi -s 1
+		- displays list of active socket connections
+		- terminates DNS resolution
+		- limits output to udp ports (-m udp)
+		- limits monitoring to wifi interface (-t wifi)
+		- refresh rate of 1s(ie m/s bandwidth)[-s 1]
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+NTP
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	Linux NTP Server Config(chrony)
+
+		% yum -y install chrony 
+
+		% vi /etc/chrony.conf
+
+		% systemctl enable chronyd
+	
+		% systemctl start chronyd 
+
+		% systemctl status chronyd
+
+		% chronyc sourcestats
+			- displays detailed information related to each time server 
+
+		% chronyc sources 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	Linux NTP Server Config
+
+		% yum -y install ntp
+
+		% vi /etc/ntp.conf
+	
+		% systemctl enable ntpd 
+			- enable NTP daemon to startup at boot 
+
+		% systemctl start ntpd 
+
+		% systemctl status ntpd 
+
+		% ntpq -p 
+			- prints list of peers and their states 
+			**syncing with word “pools” returns different IPs - still listed amongst the pool - than listen in the .conf 	
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	Windows NTP Server Configuration 
+	
+		- task manager\ services tab\ open services button\ windows time(right click)\ properties 
+
+			- startup type: automatic 
+
+		- registry editor\ hkey_local_machine\ system\ currentControlSet\ services\ w23time\ parameters\ type(right click)\\modify
+		
+			- Value Data: NTP 
+
+		- w32time\ time providers\ ntpServer\ enabled
+		
+			- Value Data: 1 
+
+		- w32time\ config\ announceFlags
+
+			- value data: 5 
+
+		- task manager\ services tab\ open services button\ windows time(right click)
+
+		- restart 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	Windows NTP Client Configuration(CLI)
+		
+		>w32tm /config /manualpeerlist:192.168.0.22,0x8/syncfromflags:MANUAL /update
+			- sets server 192.168.0.22 as NTP peer 
+		
+		> w32tm /query /status
+			- checks current NTP status
+
+		> w32tm /query /source 
+			- checks current NTP source
+	
+		> w32tm /query /peers 
+			- checks current NTP peers 
+
+		> w32tm /resync
+			- force a time synchronization
+
+		> w32tm /resync /rediscover
+			- force rediscovery of domain time sources 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	public NTP servers: 
+		- time.google.com
+		- time.windows.com
+		- time.apple.com
+		- time.nist.gov
+		- pool.ntp.org
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	% /etc/ntp.conf
+		- configuration file for ntp 
+	
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+DNS Records 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	
+	whois
+		%whois 8.8.8.8
+			- returns verbose information about the owner of the public IP 
+			
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	nslookup 
+		
+		>nslookup -type=mx 515.support.com 8.8.8.8
+			- query googles DNS server(8.8.8.8), for information about 515support.com’s mail records 
+
+		>nslookup -type=ns comptia.org 8.8.8.8
+			- query googles dns server for information about comptia.org’s name servers
+ 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+		
+		% dig 515support.com MX 
+			- queries default DNS for mail exchange resource associated with 515support.com
+
+		% dig mail.515support.com
+			- queries default DNS for ip address associated with “mail.515support.com”
+
+		% dig @ns1.isp.example 515support.com
+			- queries nameserver “ns1.isp.example.com” for ip address associated with 515support.com
+
+		% dig +trace comptia.com
+			- displays dns hops from root to resolved IP 
+				**includes root, TLD, authoritative servers
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	DNS caching - Linux
+		
+		%yum install dnsmasq
+			- install dns caching software 
+
+		%cd /etc
+	
+		%vim /etc/dnsmasq.conf
+			- edit dns software configuration file
+
+		[inside dnsmasq.conf]
+			
+			interface=lo
+			bind-interfaces
+			listen-address 127.0.0.1
+			cache-size=1000
+			resolv-file=/etc/resolv.dnsmasq
+			no-poll
+		
+		%vim /etc/resolv.dnsmasq
+	
+		[inside resolv.dnsmasq]
+		
+			nameserver 192.168.30.1
+
+		%vim /etc/resolv.conf
+	
+		[inside resolv.conf]
+
+			#comment out both existing nameservers
+			#comment out both existing nameservers 
+
+			nameserver 127.0.0.1
+
+		% systemctl status dnsmasq
+			- checks for dnsmasq service activity
+
+		% systemctl enable dnsmasq
+			- enables automatic operation 
+
+		% systemctl start dnsmasq
+			- starts operation
+
+		% nslookup google.com
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	- Resource Record Types(Windows Server DNS Tool) 
+	
+		- forward & reverse lookup zones
+		
+			- fwd: corp.515support.com 
+				**dc10.corp.515support.com -> 10.1.16.1
+				- above is the lookup of the “A record” associated with the host name “dc10.corp.515support.com”
+	
+			- rev: 1.16.1.10.in-addr-arpa -> dc10.corp.515.support.com 
+				- above is the lookup of the hostname associated with the pointer record “1.16.1.10.in-addr.arpa”
+				**ipv6 appends “ip6.arpa” to the reverse ipv6 quartets for reverse lookup
+		
+		- stored information 
+			
+			- start of authority(SOA)
+				- identifies the primary authoritative name server that maintains complete resource records for the zone 
+
+			- name server(NS)
+				- identifies authoritative DNS name servers for the zone 
+				- secondary name servers are for load balancing 
+
+			- A records: ipv4
+				**host records 
+				- ipv4 association with hostname
+
+			- AAAA records: ipv6 
+				**host records 
+				- ipv6 association with hostname 	 
+
+			- pointer records(PTR)
+ 				- information stored in a reverse lookup zone 	
+
+			- mail exchange(MX)
+				- email server 
+
+			- service record(SRV)
+				- enables network clients to locate domain controllers and related services(kerberos, ldap, etc) 
+
+			- cname(canonical name) records
+				- aliases for existing records 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+packetFiltering(macbook firewall)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	
+	%/etc/pf.conf
+		- location of default pf configuration file 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	%sudo nano /etc/pf.anchors/block_mDNS 
+	
+		{inside the file}
+			#Block mDNS (Bonjour) multicast traffic
+			block drop out quick proto udp from any to { 224.0.0.251, ff02::fb } port 5353   
+				- creates file containing deny rule for multicast egress traffic from port 5353
+
+	%sudo nano /etc/pf.conf
+
+		{inside the file}
+			anchor “block_mDNS”
+			load anchor “”block_mDNS” from “/etc/pf.anchors/block_mDNS”
+				- “loads rule block_mDNS” into the config file 
+
+	%sudo pfctl -f /etc/pf.conf
+	%sudo pfctl -e 
+		- loading the new configuration and enabling packet filtering  		
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	%sudo tcpdump -i en0 udp port 5353
+		- tcp traffic to/from socket en0:5353
+	
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Windows Terminal
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	>hostname
+		- displays current system name 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	>help copy
+		- displays reference for command “copy 
+
+	>dir
+		- displays list of directories in current file path 
+	
+	>fsutil fsinfo drives
+		- lists available drives on the current system “”c:\ e:\ etc”
+
+	>w: 
+		- moves to specified drive letter 
+ 
+	>vol w:
+		- displays basic information about drive “w”
+	
+	>cd/mkdir/rmdir
+		- same as zshell/bash 
+
+	>C:\Users\professor
+		- file path beginning with the C: drive letter
+		**file paths to other drives, devices, or hosted drives require their respective file paths 
+			H:\cloud\yaMean
+
+	>diskpart
+		- DON’T USE THIS
+
+	>format k:
+		- formats drive letter “k:”
+		- DON’T USE THIS - it erases then partitions the drive letter 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	>copy /v P3K-447-report.log e:
+		- prompts user and copies file “P3K-447-report.log” to file letter e: 
+
+	>copy P3K-447-report.txt duplicate.txt
+		- copies document “P3K-447-report.txt” to “duplicate.txt” 
+
+	>xcopy /s Documents m:\backups
+		- copies directory “Documents” and its contents to file path “m:\backups”
+
+	>robocopy
+		- copies files with extensive features
+		**more robust copy 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	>winver
+		- displays version of windows 
+
+	>gpupdate 
+		- updates group policy 
+
+	>gpupdate /target:{computer|user} /force 
+		- forces computer or user group policy update 
+
+	>gpresult 
+		- displays verification of group policy setting for the current user or computer 
+
+	>gpresult /r
+		- compiles all information about current gp settings on the machine 
+
+	>gpresult /user sgc/professor /v
+
+	>net view \\sgc-ad
+		- displays available shares on server “sgc-ad”
+
+	>net view /workgroup:<workgroupname>
+		- displays available shares in the specified workgroup
+
+	>net use w: \\sgc-ad\Classified
+		- maps the specified network share “Classified” to the drive letter “w”
+
+	>net user <username>
+		- displays users on a specified device
+
+	>net user <username> * /domain
+		- displays users in the specified domain
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	>pathping -n 9.9.9.9
+		- combines traceroute and metrics about the path 
+		- [-n] halts DNS resolution
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	>w32tm
+		- command associated with configuring the NTP 
+	
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Install Locations
+
+	- android sdk: /Users/dunnkymani/Library/Android/sdk 
+	- android projects: /Users/dunnkymani/AndroidStudioProjects
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Windows Terminal 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	windows key + s 
+		- open command prompt 
+
+	ipconfig /release 
+		- clears every interface on the computer of its address assignment
+		**ipconfig /release “Wi-fi” 
+			- specifies the interface named “Wi-fi”
+
+	ipconfig /displaydns | clip 
+		- copies output of dns cache
+		- pasteable to text editor software  
+
+	getmac /v 
+		- all computers mac addresses 
+
+	powercfg /energy 
+		- power report in reference to computer components 
+		**copy output file location and enter into commands prompt 
+	
+	powercfg /batteryreport 
+		- power report in reference to battery usage  
+
+	assoc 
+		- displays file type -> software associations 
+
+	assoc .mp4=Vlc.vlc
+		- changes file type -> software association 
+
+	chkdsk /f
+		- “check disk” for errors 
+
+	sfc /scannow 
+		- system scan 
+
+	DISM /Online /Cleanup-Image /CheckHealth
+		- system scan and health check 
+
+	DISM /Online /Cleanup-Image /ScanHealth
+		- longer scan 
+
+	DISM /Online /Cleanup-Image /RestoreHealth 
+		- system restoration 
+
+	tasklist
+		- displays running tasks on computer
+
+	tasklist | findstr script
+		- displays running task with “script” in the name 
+
+	taskkill /f /pid 
+		- /f -> force 
+		- pid selects the specific task by process identity 
+
+	netsh wlan show wlan report 
+		- generates wireless lan report 
+		- copy file path to another line to open the report 
+
+	netsh interface show interface 
+		- displays interfaces 
+
+	netsh interface ip show address | findstr “IP Address” 
+		- dislplays IP addresses 
+
+	netsh interface ip show dnsservers
+		- displays dns servers 
+
+	netsh advfirewall set allprofiles state off
+		- disables windows firewall 	
+		- …on to turn it back on 
+
+	netstat -af 
+		- shows all connections and listening ports
+		- displays FQDNs instead of just IPs 
+
+	netstat -o 
+		- shows all active TCP connections as well as the PID 
+	
+	tasklist /FI “PID eq 1234” 
+		- collectively the statement generates the software holding the connection 
+		- lists running processes
+		- applies a filter to limit the output 
+		- filter condition enclosed in the quotes 
+
+	netstat -e -t 5 
+		- [-e]displays ethernet statistics 
+		- [-t 5] repeats the display every 5 seconds 
+
+	netstat -s 
+		- show detailed stats per protocol(TCP, UDP, ICMP, etc)
+	
+	netstat -aon
+		- show all active TCP/UDP connections and their PIDs
+
+	route print
+		- displays routing table for the computer 
+
+	route add 192.168.40.0 mask 255.255.255.0 10.7.1.44
+		- adds static route to computer table 
+
+	route delete 192.168.40.0 
+		- removes entry from the table 
+
+	shutdown /r /fw /f /t 0
+		- [/r] restarts the computer after shutdown 
+		- [/fw] enters firmware(UEFI/BIOS) settings automatically
+		- [/f] force-closes all applications without saving 
+		- [/t 0] sets timer to 0 seconds 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Disk Utility(ZShell) 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	%diskutil list 
+		- lists connected volumes 
+	
+	%diskutil info -all
+		- verbose information
+
+	%diskutil eject “/Volumes/VolumeName”
+		- ejects and powers down the device “VolumeName”
+
+	%diskutil unmount force “/Volumes/VolumeName”
+		- forcefully unmounts the device 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Android Debug Bridge(android shell)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+- install android debug bridge
+
+- mash build number to activate developer mode
+
+- developer options
+
+- enable usb debugging
+
+- ADB commands 
+
+	%adb devices 
+		- lists android devices
+	
+	%adb -s emulator-5554 shell 
+		**specific device string must be appended when there’s multiple
+		- opens device shell(phone cli)
+
+	%adb shell getprop
+		- returns all properties of the phone is unspecified 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Troubleshooting the script  
+
+	%adb shell
+
+	%touch temp.txt
+		- creates a document
+	
+	%echo “hello” > temp.txt
+		- saves string to temp.txt document 
+
+	%cat temp.txt 
+		- displays contents of target file(hello)
+
+	%adb push pc_phone.txt /sdcard
+		- file transfer from pc to phone’s sd card 
+
+	%adb pull /sdcard/pc_phone.txt pc/
+		- file transfer from phone to pc directory 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	
+	%adb shell input tap x y 538 1099
+		- simulates tape on the screen 
+
+	- settings 
+	
+	- developer options 
+
+	- pointer location
+		**observe the coordinates for the “taps”
+
+	%adb shell input text “hello”
+		- simulates input of hello on the keyboard 
+
+	%adb shell input keyevent 4 
+		- simulates phone button depress 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	%adb shell list packages 
+		- lists apps installed 
+
+	%adb shell list packages | grep bk 
+		- lists apps containing “bk”
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	%adb shell
+	
+	%run-as bk.yt.example
+		- basically to the directory the app “bk.yt.example” stores information
+		**pwd to check
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Sudo Code & Scripting
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	start loop
+
+		%adb -s 6fb1d29d shell input swipe 45.0 935.0 685.0 935.0 
+			#swipe left to right 
+		
+		%adb -s 6fb1d29d shell input tap 59.0 116.0 
+			#tap 3 lines top left 			
+
+		%adb -s 6fb1d29d shell input tap 281.0 116.0 
+			#taps sign in/sign up
+
+		%adb -s 6fb1d29d shell input text 
+
+		%adb -s 6fb1d29d shell input tap 388.0 669.0
+			#taps away error message 
+
+	repeat 
+ 	
+	**commands are represented with their preceeding delimiter(config#; %)
+	**scripts uses, but with different context 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	NetworkChuck Bash Scripting 
+
+		which $SHELL
+			- displays the current working shell
+
+		echo “Hi Mom”
+			- displays Hi Mom
+
+		nano himom.sh
+			- creates an executable text file, “himom” 
+
+		[[himom.sh]]
+
+			#!/bin/bash
+				- declares the shell in use for the script 
+	
+			echo “Hi Mom”
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	[[inside bestdayever.sh]]
+
+		#!/bin/bash 
+
+		echo “Good Morning Chuck!!”
+	
+		sleep 1
+			- pauses actions for 1 second 
+
+		echo “You’re looking good today Chuck!!”
+		
+		sleep 1 
+
+		echo “You have the best beard I’ve ever seen Chuck!!” 
+	
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+		
+	[[bestdayever.sh]]: using variables 
+
+		#!/bin/bash 
+
+		name “Patricia”
+			- declares a variable “name”, as “Patricia”
+
+		echo “Good Morning $name!!”
+			- $name: utilizes the variable 	
+		sleep 1
+			- pauses actions for 1 second 
+
+		echo “You’re looking good today $name!!”
+		
+		sleep 1 
+
+		echo “You have the best beard I’ve ever seen $name!!” 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	[[bestdayever.sh]]: read(accepting input)
+
+		#!/bin/bash 
+
+		echo “What is your name”
+
+		read name
+			- accepts input
+
+		echo “Good Morning $name!!”
+
+		sleep 1
+
+		echo “You’re looking good today $name!!”
+		
+		sleep 1 
+
+		echo “You have the best beard I’ve ever seen $name!!” 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	[[bestdayever.sh]]: read(using positional arguments[parameters])
+
+		#!/bin/bash 
+
+		name = $1		
+
+		echo “Good Morning $name!!”
+
+		sleep 1
+
+		echo “You’re looking good today $name!!”
+		
+		sleep 1 
+
+		echo “You have the best beard I’ve ever seen $name!!” 
+
+	%./bestdayever.sh Ben
+		- executes script, using “Ben” as the 1st positional parameter
+
+	[[bestdayever.sh]]: read(using positional arguments[parameters])
+
+		#!/bin/bash 
+
+		name = $1
+		
+		compliment = $2		
+
+		echo “Good Morning $name!!”
+
+		sleep 1
+
+		echo “You’re looking good today $name!!”
+		
+		sleep 1 
+
+		echo “You have the best $compliment I’ve ever seen $name!!” 
+
+	%./bestdayever.sh Elitha Eyes
+		- executes script, using “Elitha” as 1st, and “Eyes” as the second 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	[[bestdayever.sh]]: read(using positional arguments[parameters])
+
+		#!/bin/bash 
+
+		name = $1
+		compliment = $2	
+		
+		user=$(whoami)
+			- declares “user” as the output of a command 
+		date=$(date)
+		whereami=$(pwd)	
+
+		echo “Good Morning $name!!”
+
+		sleep 1
+
+		echo “You’re looking good today $name!!”
+		
+		sleep 1 
+
+		echo “You have the best $compliment I’ve ever seen $name!!” 
+
+		sleep 2 
+
+		echo “You are currently logged in as $user and you are in the directory $whereami. Today is $date”
+			- displays message including 3 variables generated from commands %whoami, %date, and %pwd
+
+	%./bestdayever.sh Elitha Eyes
+ 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+xxd(utility)
+
+	%echo “In hexidecimal” | xxd -p
+		- prints a string of hexidecimal digits representing the phrase ‘In hexidecimal’ 
+
+	%echo “0123456789abcdef” | xxd -r -p
+		- reverses and decodes hexidecimal string into plain text 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	%cat data.txt
+		- displays plain text information contained inside file “data”
+		**assume the information is a hexdump that needs decoding
+	
+	%xxd -r data.txt data
+		- reverses the hexdump into machine language
+		- removes the current file type and extention .txt
+		
+	
+	- file signature(magic numbers/bytes) are inserted in the beginning of a file 
+		**00000000: 1f8b 0808
+
+	- search list of file signatures for the matching bytes 
+		**1f 8b -> GZIP compressed file -> .gz 
+
+	%mv data data.gz 
+		- change the file name to a .gz(file extension of the matching hexdump “head”)
+	
+	%gzip -d data.gz
+		- uncompresses the file “data” 
+		**be sure to use the corresponding technology for each file signature/type
+	
+	%cat data 
+		- displays decoded information
+
+	%xxd data 
+		- displays a hexdump of the file contents inside “data”
+	
+	- repeat the cycle from finding the file signature until hexdump is fully decoded 
+
+	%xxd data | head 
+		- hexdump limiting the output to the first few lines using pipe and the phrase “head”
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+File
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	file ./Example.txt
+		- displays file type of “Example.txt”
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Link(sysmink)
+	
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	% ln -sv ./test1/test1.txt  
+		- creates shortcut in current directory leading to file “test1.txt”
+	
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Remove(rm)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	%rm -Riv Downloads/docs/blcPacket
+		- removes directory “blcPacket” 
+		- removes its contents(-R)
+		- prompts user before every removal(-i)
+		- informs user of actions(-v)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Copy(cp)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	%cp -Rv /path/to/source_directory /path/to/destination_directory
+		- copies “source_directory” to “destination_directory” 
+		- copies contents as well(-R)
+		- lists the actions taken(-v)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+SCP(sftp via ssh)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	%scp -P 22 ./local.txt root@172.16.0.2:/root
+		**scp [localPath] [user@]hostIP:[remotePath]
+		- transfers local file named “local.txt” to “remotePath” on remote system “user” at address “hostIP” 
+		- [-P] specifies port #
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Netcat
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+
+	! target device 
+
+		% nc -l  1337 
+			- netcat listening on port 1337 
+
+	! sender 
+
+		% nc 192.168.1.132 1337 
+	
+		% Hello?
+			- distant end displays “Hello?”
+
+	! port scans address for open port, every 1 second within 1-1000 range whilst disregarding I/0 latency(-z)
+		
+		% nc -v -w 1 10.73.31.9 -z 1-1000
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	
+	! target device
+		
+		% nc -l -p 1234 > winServ.iso
+			- listening (-l)
+			- port 1234 (-p)
+			- downloads throughput to file “winServ.iso”
+				**file names don’t have to be consistent amongst terminals 
+
+	! sender
+	
+		% dd if=winServ.iso bs=1M status=progress | ncat 172.16.0.2 1234 -q 1 < winServ.iso
+			- outputs real-time transfer metrics for the ncat command 
+			- quits 1s after file transfer(-q)
+			- uploads file “winServ.iso”
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+GPG
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	%gpg --list-keys
+		- lists all public and private keys saved locally 
+
+	%gpg --full-generate-key 
+		- creates asymmetric key pair with editable properties such as encryption standard, expiration, credential associations
+
+	%gpg --edit-key me@example.com 
+		- edits key pair associated with email: me@example.com
+		**properties located in gpg manual page 
+
+	%gpg --encrypt data.txt
+		- generates encyption prompt for “data.txt” using asymmetric(recipient) key pair of choice
+	
+	%gpg --encrypt --recipient 123456789ABCDEFGHIJKL data.txt
+		- encrypts “data.txt” using public key from pair associated with uid ”123456789ABCDEFGHIJKL”
+
+	%gpg --decrypt data.txt.gpg 
+		- generates decryption prompt regarding “data.txt.gpg” for the private key passphrase of choice  
+		- displays data on screen 
+
+	%gpg -- decrypt data.txt.gpg > decryptedData.txt
+		- decrypts “data.txt.gpg” and generates file containing unencrypted file contents by the name of “decryptedData.txt”  
+
+	%gpg -- export 123456789ABCDEFGHIJKL > public-key.gpg
+		- outputs uid “123456789ABCDEFGHIJKL” public key to file “public-key.gpg”
+
+	%gpg  -- export --armor 123456789ABCDEFGHIJKL > public-key.gpg
+		- outputs uid “123456789ABCDEFGHIJKL” public key in human readable format to file “public-key.gpg”
+		**%mv public-key.gpg public-key.asc
+			- changes format of public key file to universal text file with import capabilities(ascii)
+
+	%gpg -- import public-key.asc
+		- imports public key contained within file “public-key.asc”
+		- simply copy public key from the source(website, email, etc) and import to gpg  
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Active Directory Hierarchy
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	Typical uses & notes
+	
+	⁃	GPOs are linked to domains, OUs, or sites — OUs are commonly used to target GPOs to sets of users or computers
+
+	⁃	Delegation: Use OUs to delegate administrative permissions without giving domain-level rights
+
+	⁃	Trusts: Forests may contain multiple trees which implicitly trust each other inside the forest; cross-forest trusts can be created between different forests
+
+	⁃	Global Catalog: Stores a partial replica of all objects for the forest to facilitate searches across domains
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	Namespace / DN examples
+
+	⁃	DNS domain name: corp.contoso.com
+
+	⁃	Lightweight Directory Access Protocol(LDAP) Distinguished Name (DN): CN=Alice,OU=Users,DC=corp,DC=contoso,DC=com
+
+	⁃	UserPrincipalName (UPN): alice@corp.contoso.com (often used to sign in)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	Key ideas (short)
+
+	⁃	Forest: Top-level security boundary. Contains one or more trees. Example: contoso.com
+
+	⁃	Tree: A contiguous namespace collection of domains that share a hierarchical DNS name (e.g., contoso.com and eng.contoso.com). Trees inside a forest share the Global Catalog and schema
+
+	⁃	Domain: Administrative and replication boundary. Has a DNS name (e.g., corp.contoso.com)
+
+	⁃	Organizational Unit (OU): Container used to group objects for delegation, GPO application, and organization (e.g., OU=Users)
+		**generic containers(NOT TO BE CONFUSED WITH OUs): store system objects/parent objects of the created containers 
+			- reject GPO application and other management differences from OUs 
+
+	⁃	Objects: Users, Computers, Groups, Contacts, etc. Each object has attributes and a unique Distinguished Name (DN)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	flowchart TD
+		subgraph Forest[Forest: contoso.com]
+			direction TB
+			subgraph TreeA[Tree: contoso.com]
+				direction TB
+				subgraph Domain1[Domain: corp.contoso.com]
+					direction LR
+					OU1[OU: Users]
+					OU2[OU: Servers]
+					OU3[OU: SecurityGroups]
+					OU1 --> U1[User: Alice]
+					OU1 --> U2[User: Bob]
+					OU2 --> C1[Computer: SRV01]
+					OU3 --> G1[Group: Finance-Admins]
+				end
+				subgraph Domain2[Domain: eng.contoso.com]
+					direction LR
+					OU4[OU: Dev]
+					OU5[OU: Test]
+					OU4 --> U3[User: Carol]
+					OU5 --> C2[Computer: TEST01]
+				end
+			end
+	
+			subgraph TreeB[Tree: partner.contoso.net]
+				direction TB
+				subgraph Domain3[Domain: partner.contoso.net]
+					OU6[OU: ExternalUsers]
+					OU6 --> U4[User: vendor1]
+				end
+			end
+		end
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+Protocols, Properties, and Parameters = Tactics, Techniques, and Procedures 
+	- an inference developed from my own experience on the hierarchy of command line technologies, purposes, and concepts 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Virtual Tunnel Interface(VTI)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	(config)# interface Tunnel1
+	(config-if)# ip address 10.0.0.1 255.255.255.252
+	(config-if)# tunnel source GigabitEthernet1
+	(config-if)# tunnel mode ipsec ipv4
+	(config-if)# tunnel destination 203.0.113.2
+	(config-if)# tunnel protection ipsec profile VTI-IPSEC-PROFILE
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+IKEv2 Point-to-Point VPN 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+	HQ-ROUTER#int g0/0
+		#ip address 192.0.2.2 255.255.255.252
+		          
+	           #crypto ikev2 keyring Keys1
+	           #peer Branch-Rtr
+                    	#address 209.165.201.2 
+	           #pre-shared-key local HQ-Keystring
+		#pre-shared-key remote Branch-Keystring 
+                     
+	           #crypto ikev2 profile default
+
+		#match identity remote fqdn Branch-Rtr.abc.public
+	           #identity local fqdn HQ-Rtr.abc.public
+		#authentication local pre-share 
+		#authentication remote pre-share 
+		#keyring local Keys1
+
+
+	BRANCH-ROUTER#int g0/0
+	          #ip address 209.165.201.2 255.255.255.252
+		          
+	          #crypto ikev2 keyring KR1 
+	          #peer HQ-Rtr
+	          #address 192.0.2.2
+	          #pre-shared-key local Branch-Keystring
+	          #pre-shared-key remote HQ-KeyString
+
+	          #crypto ikev2 profile default
+
+	          #match identity remote fqdn HQ-Rtr.abc.public
+	          #identity local fqdn Branch-Rtr.abc.public
+	          #authentication local pre-share 
+	          #authentication remote pre-share 
+	          #keyring local KR1 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Dot1x Access Control
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	LOCAL MAB ONLY
+
+		#aaa new-model
+	
+		#aaa authentication dot1x default local
+
+		#interface g1/0/1
+		#switchport mode access
+		#authentication port-control auto
+		#mab
+
+		#username <MAC> privilege 0 secret <MAC>
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	Dot1x + MAB
+
+		#radius server exampleRadius
+		#address ipv4 1.1.1.1 auth-port 1812 acct-port 1813
+		#key localMAB
+
+		#ip radius source-interface vlan1000
+
+		#aaa group server radius exampleGroup 
+		#server name exampleRadius
+		#ip radius source-interface vlan1000
+
+		#dot1x system-auth-control
+
+		#aaa new-model
+		#aaa authentication dot1x default group radius local 
+		#aaa authorization network default group radius local
+
+		#int g1/0/1
+		#switchport mode access
+		#authentication host-mode multi-domain
+		#authentication closed
+		#authentication port-control auto
+		#mab
+		#dot1x pae authenticator
+
+		#username <MAC> privilege 0 secret <MAC>
+
+		#show authentication sessions interface 
+		#show radius statistics
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Flexible Netflow
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	#flow exporter EXPORTER1
+		! NetFlow transmitter config
+	#destination 10.1.1.100
+	#source loopback 0 
+	#transport udp 2055
+
+	#flow record LANFLOW1
+		! Determines what NetFlow captures(match) and displays(collect)
+	#match ipv4 tos 
+	#match ipv4 protocol 
+	#match ipv4 source address
+	#match ipv4 destination address 
+	#match transport source-port 
+	#match transport destination-port
+	#match interface input
+	#collect routing next-hop address ipv4
+	#collect interface input 
+	#collect routing next-hop address ipv4
+	#collect interface output
+	#collect counter bytes
+	#collect counter packets 
+	#collect timestamp sys-uptime first
+	#collect timestamp sys-uptime last
+
+	#flow monitor MONITOR1 
+		! Comprehensive NetFlow construct
+	#description Primary NetFlow Cache
+	#exporter EXPORTER1 
+	#record LANFLOW1		
+
+	#int f0/0
+	#ip flow monitor MONITOR1 input
+
+	#int f0/1
+	#ip flow monitor MONITOR1 input
+
+	#show flow monitor
+	#show flow monitor MONITOR1 cache
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Basic Netflow
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	
+	#interface f0/0
+	
+	#ip flow ingress
+		- enables WAN -> LAN netflow monitoring
+	
+	#ip flow egress
+		- enables LAN -> WAN netflow monitoring
+	
+	#ip flow-export version 9
+		- changes default netflow version 1 to version 9 
+	
+	#ip flow-export destination 1.2.3.4 9999
+		- exports netflow messages to udp socket 1.2.3.4:9999
+
+	#ip flow-export destination 4.3.2.1 8888 sctp
+		- exports netflow messages to TCP socket 4.3.2.1:8888 
+		- uses Stream Control Transmission Protocol 
+
+
+	#show ip flow interface 
+	#show ip flow-export
+	#show ip cache flow 
+	
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Logging Messages(syslog, debugging for Cisco)
+
+	- displays current logging settings
+		#show logging 
+	
+	- enables console logging
+		#logging console
+	
+	- enables console logging for message entry and higher
+		#logging console <message level>
+
+	- sends syslog messages to VTY connected terminals
+		#logging monitor 
+			**disabled by default 
+
+	- enables syslog message display when connected via VTY lines
+		#terminal monitor
+			**disabled by default
+
+	- sends syslog messages to the buffer
+		#logging buffer
+	
+	- sends syslog messages to the buffer, determines buffer size, and message level
+		#logging buffer 8192 6
+	
+	- sends syslog messages to an external server
+		#logging 192.168.1.1
+		#logging trap <level>
+			**determines syslog level for messages sent to external server
+
+	- ensures messages don’t interrupt user input
+		#logging synchronous
+
+	- displays current debug messages enabled 
+		#show debug
+
+	- disable logging messages
+		#no logging console
+			**enabled by default(disable when not connected via console line)
+		#no logging monitor 
+
+	- disable debug conditions 
+		#undebug < debug condition>
+		#undebug all
+			**disables all messages
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+SNMP
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	R1#snmp-server community Public ro
+		- enables a snmp community “Public” that is read-only 
+	R1#snmp-server host  10.10.10.250 Public 
+		- configures router to send SNMP messages to host “10.10.10.250”
+		- authenticating with the community string “Public”
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+NTP 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	- authentication 
+	**authentication parameters/properties must be identical across systems participating the in the NTP relationship
+
+		R1#ntp authenticate 	
+			- enables authentication to ensure device syncs to intended NTP server only 
+		
+		R1#ntp authentication-key 1 md5 jeremysitlab 
+			- creates authentication hash “1” protected by password “jeremysitlab”
+
+		R1#ntp trusted-key 1 
+			- lists key “1” as trusted and available for use
+
+		R2#ntp authenticate
+		R2#ntp authentication-key 1 md5 jeremysitlab
+		R2#ntp trusted-key 1 
+		R2#ntp server 10.0.12.1 key 1 
+		R2#ntp peer 10.0.23.2 key 1 
+			- adds authentication to the peer relationship with R3 
+
+		R3#ntp authenticate
+		R3#ntp authentication-key 1 md5 jeremysitlab
+		R3#ntp trusted-key 1 
+		R3#ntp server 10.0.12.1 key 1 
+		R3#ntp peer 10.0.23.1 key 1 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	
+	R1#ntp master
+		- sets local loopback address as the ntp server(top level server)
+		- default stratum is 8 
+		- operates without a primary or secondary server to sync to
+
+	R2#ntp server 10.0.12.1
+	R2#ntp peer 10.0.23.2
+	
+	R3#ntp server 10.0.12.1
+	R3#ntp peer 10.0.23.1
+		
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++	
+
+	R1# int lo0
+	R1#ip address 10.1.1.1 255.255.255.255
+	R1#exit
+	R1#ntp source loopback0 
+		- ntp messages will originate from the loopback address  
+
+	R2#int lo0
+	R2#ip address 10.2.2.2 255.255.255.255
+	R2#ntp server 10.1.1.1	
+	R2#show ntp associations
+
+	R3#ntp server 10.1.1.1
+	R3#ntp server 10.2.2.2
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	R1#ntp server 216.239.35.0 prefer 
+	R1#ntp server 216.239.35.4
+	R1#ntp server 216.239.35.8
+	R1#ntp server 216.239.35.12
+		- configures four ntp servers on router 1, setting .0 as the preferred server 
+
+	R1#show ntp associations
+		- *: currently synced ntp
+		- +: ntp candidate 
+		- ~: configured 
+
+	R1#show ntp status
+	R1#show clock detail 
+		- NTP only uses UTC
+		- time zone must be configured 
+	R1#show calendar 
+		- NTP does not update your calendar 
+		- calendar must be configured to sync with the ntp server 
+
+	R1#clock timezone JST 9 
+	
+	R1#ntp update-calendar 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	- NTP provides a solution for the lack of scalability in terms of network synchroniztion 
+	
+	- NTP is a client/server architecture in which the participating devices can be both(with an additional symmetric active mode) 
+	
+	- NTP operates on UDP 123 	
+
+	- reference clocks 
+		- atomic, GPS clocks and the like -> very accurate 
+			- considered stratum 0 
+	
+	- primary servers
+		- servers with direct connection to the reference 
+			- considered stratum 1 
+
+	- secondary servers 
+		- receiving timing from other NTP servers  
+			- considered stratum 2 and above 
+
+	- NTP peering(symmetric active mode)
+		- devices at the same stratum level syncing with one another for accuracy and redundancy 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	#show clock 
+		- displays software time/date
+		- default time zone is UTC(coordinated universal time)
+		
+	#show clock detail
+		- displays software time/date more detailed
+		- * -> means time is not authoritative 	
+	
+	- NTP alleviates hardware calendar drift, and provides synchronization for accurate logs used for troubleshooting 
+
+	#show logging 
+	
+	#clock set 14:30:00 27 DEC 2020 
+		- manual clock configuration protocol for the SOFTWARE CLOCK
+
+	#calendar set 14:35:00 27 DEC 2020 
+		- manual calendar configuration for the HARDWARE CLOCK 
+
+	#clock update-calendar 
+		- syncs the calendar to the clock
+
+	#clock read-calendar 
+		- syncs the clock to the calendar 
+
+	#clock timezone JST 9
+		- “JST” is a word in this instance(not a property), the engineer uses to represent Japan Standard Time
+		- “9” sets the clock 9 hours ahead of UTC 
+
+	#clock summer-time EDT recurring 2 Sunday March 02:00 1 Sunday November 02:00
+		- manually configures daylight savings start and stop 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+GK
+	
+	- broadcast = NetID w/ host bits inverted 
+		ex. 127.0.0.0/8 -> 01111111.0.0.0 -> 01111111.11111111.11111111.11111111 -> 127.255.255.255 
+
+	- ip range 127.0.0.0/8: loopback addresses
+		- aka localhost 
+		- aka DNS: “hostname”
+
+	- set aside ranges
+		- 0.0.0.0/8
+		- 255.255.255.255	
+		- 64.0.0.0/10, 192.0.0.0.24, 192.88.99.0/24, 198.18.0.0/15
+		- 0.2.0.0/24, 198.51.100.0/24, 203.0.113.0/24 
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Powershell Network Cmdlts
+
+	powershell>Get-NetAdapter
+	powershell>Get-NetIPAddress
+		- queries the existing configuration
+	
+	powershell>New-NetIPAddress
+		- new configuration
+	
+	powershell>Set-NetIPAddress
+		- modifies existing configuration
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+
+	>netsh interface ip set address “Ethernet” dhcp
+		- sets interface “Ethernet” to accept ip address using dhcp
+
+	>netsh interface ip set address “Ethernet” static 198.51.100.17 255.255.255.240
+		- sets interface “Ethernet” to static address 
+	
+	>netsh interface ip show config
+		- displays the current ip configuration
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+QoS Config
+	
+		- class map: identify traffic types 
+
+			#class-map HTTPS_MAP
+			#match protocol https
+			#exit
+
+			#class-map HTTP_MAP
+			#match protocol http
+			#exit
+
+			#class-map ICMP_MAP
+			#match protocol ICMP
+			#exit
+
+		- policy map: actions to be taken 
+
+			#policy-map g0/0/0_OUT
+			
+			#class HTTPS_MAP
+			#set ip dscp af31  
+			#priority percent 10 
+			#exit
+			
+			#class HTTP_MAP
+			#set ip dscp af32 
+			#bandwidth percent 10 
+			#exit
+
+			#class ICMP_MAP
+			#set ip dscp cs2 
+			#bandwidth percent 5 
+			#exit
+			#exit
+
+		- service policy: applies QoS setting to particular interface 
+
+			#int g0/0/0
+			#service-policy output g0/0/0_OUT
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Quality of Service(QoS)
+	
+	- applies various treatments to different traffic
+
+		ex. bandwidth: 20% voice•30% specific•50% other
+		
+	- delay
+		- one-way: time required from source -> destination
+		- two-way: time required from source -> destination + destination -> source 
+		
+	- jitter: variation in one-way delay between packets sent by the same application
+		- jitter buffer provides fixed delay for packets, such as audio 
+
+	- loss: purposefully discarding packets in the event queues get full
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	
+	- Audio Call Standards 
+	
+		- OWD: x =< 150 ms
+
+		- Jitter: x =< 30ms
+
+		- Loss x =< 1%
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	- Traffic Queuing
+
+		- queued messages are forwarded in first-in-first-out(FIFO) method traditionally
+		- tail dropped: new packets are discarded onced the queue is full 
+			- TCP Global Sync: perpetual throttling and amplification cycle caused by excessive tail drops 
+			ex. network congestion -> tail drops -> Global TCP Sync -> window decrease ->
+				>network underutilization -> window increase -> network congestion…
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+		
+	- Solution: Tail Dropping
+		
+		- random early detection(RED): purposely drops packs when traffic reaches a user defined threshold 
+			- regulates the TCP window 
+
+		- weighted random early detection: similiar to RED w/ granular packet controls defined by traffic classifications 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	- VoIP: voice over IP 
+
+	- PSTN: Public switched telephone network 
+		- aka: plain old telephone service(POTS)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	- IP Phones
+		
+		- 3-port switch(traffic -> phone -> switch)
+		- uplink: host -> external network
+		- downlink: external network -> host 
+
+		- Data & Voice VLANs
+			**links carrying both are NOT trunks 
+			
+			#int g0/0
+			#switchport mode access 
+			#switchport access vlan10
+				- this is the data vlan
+			#switchport voice 11 
+				- enabling voice vlan on the link[the link is still an access port
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	
+	- PoE: Power Over Ethernet 
+	
+		- power sourcing equipment(PSE - provider)
+		- powered devices(PD - recipient)
+			**AC -> PSE -> DC -> PD 
+		
+		#power inline police(#power inline police action err-disable ) 
+			- disables port; sends syslog message during PD overconsumption
+		
+		#power inline police action log 
+			- restarts interface and sends suslog in the event of over consumption
+			- PD loses power temporarily 
+		
+		#show power inline police g0/0
+			- displays available, used, remaining power, and interface power settings
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	- Classification/Marking 
+		
+		- traffic is organized into classes 
+		- methods
+
+			- ACL: similiar parameters as NAT usage 
+
+			- Network Based Application Recognition(NBAR): deep packet inspection
+
+			- Priority Code Point(PCP)/Class of Service(CoS)
+				
+				- ONLY OPERABLE over trunk or access + voice links
+			
+				- Layer 2 Classification(3 bits)
+
+					- 0: best effort or “best effort…of whats left”
+			
+					- 1: background
+	
+					- 2: excellent effort 
+
+					- 3: critical applications -> IP phones call signaling(PCP3)
+		
+					- 4: video
+
+					- 5: voice data -> IP Phone(PCP5)
+	
+					- 6: Internetwork Control
+	
+					- 7: Network Control
+
+			- Differentiated Services Code Point(DSCP)/Type of Service(ToS)
+
+				- developed as a 3 bit extention to the IPP standard, a layer 3 equivalent to PCP 
+				
+				- Layer 3 Classification(6 bits)
+				
+					- 0: Default Forwarding(DF) -> best effort 
+
+					- 46: Expedited Effort(EF) -> low loss/latency/jitter traffic(voice)
+					
+					- Assured Forwarding(AF) -> 12 values; 4 classes; 3 drop precedences 
+						
+						- syntax: AFXY -> X = class Y = drop precedence
+						
+						- Range: AF13 - AF41 -> [4] highest class [1] least likely to be dropped 
+							ex. least to priority: AF13 -> AF12 -> AF11 -> AF21 -> AF31 -> AF41 
+						
+						- Binary: XY = _ _ _ || _ _  || 0 
+							ex. AF11 = 001010 -> 0 0 1 || 0 1 || 0 -> 1 || 1 -> AF11
+							**3 digits class - 2 digits drop precedence - last digit is always 0
+
+					- Class Selector(CS) -> set of 8 standard values; backwards compatible with IPP
+		
+						- syntax: CS# -> # = 0-7
+	
+						- Range: CS0 - CS7 
+
+						- Binary: # =  _ _ _ || 0 0 0
+							ex. CS3 = 011000 -> 0 1 1 || 0 0 0 -> 0 1 1 -> CS3 
+								**3 digits CS - last 3 digits are always 0 
+
+					**DSCP representation(DSCP10, DSCP24, etc) are simply the decimal equivalent of the entire binary number 
+						ex. AF11 -> 001010 -> DSCP10 
+						ex. CS3 -> 011000 -> DSCP24 
+
+				- DSCP Recommendations 
+					
+					- Voice Traffic: EF
+
+					- Interactive Video: AF4x
+					
+					- Streaming Video: AF3x
+					
+					- High Priority Data: AF2x
+							
+					- Best Effort: DF 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	- Trust Boundaries 
+		
+		- point at which devices trust/untrust traffic QoS markings 
+			- trusted: forwarded without changes
+			- untrusted: markings changed according to policy
+					
+		
+			 EF    ->  DF	    ->
+			 Cos0	    CoS0		
+		
+		PC1 -> PH1 -> *SW1* -> R1 -> R2 -> Internet 
+				       |
+		PC2 -> PH2 -> *SW2* 
+
+
+		*Trust Boundary*: traffic prior to the switches will be changed 
+	
+
+			  EF      ->   EF	->
+			  Cos0	      CoS0		
+		
+		PC1 -> *PH1* -> SW1 -> R1 -> R2 -> Internet 
+				       |
+		PC2 -> *PH2* -> SW2 
+		
+		EF
+		CoS0	   ->	   DF		
+		
+
+		*Trust Boundary*: better placements of the TB to ensure voice traffic retains DSCP classificartion
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	 - Queuing/Congestion
+	
+		- RED and WRED drop packets early to avoid tail drop
+			- faster rate traffic is queued, and dropped once the queue is full
+
+		- devices match traffic based on various factors(DSCP header) then queue
+			
+		- interfaces are limited to one frame at a time 
+			- scheduler determines next frame 
+			- traffic is scheduled based on priority 
+
+
+		ingress -> routing,etc -> classification -> queuing -> scheduling -> transmission 
+
+
+		- Schduler Methods
+			
+			- weighted round robin 
+			
+			- Class Based Weighted Fair Queuing(CBWFQ)
+		
+				- functions similiarly to weighted round robin with added bandwidth reservation
+				- not ideal for voice data as it adds delay and jitter 
+
+
+				congestion -> routing -> 10% classA -> queueA -> scheduler -> transmission 
+							       15% classB -> queueB ->
+							       15% classX -> queueX ->
+							       60% classY -> queueY ->
+				
+
+					- schduler: YXBA…
+
+			- Low Latency Queue(LLQ)
+
+				- designates one or more queues as strict priority queues 
+				- scheduler always takes next packet from priority queue until its empty 
+
+
+				congestion -> routing -> 10% classA -> queueA 	          -> scheduler -> transmission 
+							       15% classB -> strictPriorityQueue   ->
+							       15% classX -> queueX 	          ->
+							       60% classY -> queueY 	          ->
+				
+
+					- scheduler: BYXA… 
+					- reduces delay and jitter of voice/video 
+					- potentially starves other queues
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	- Shaping & Policing 
+
+		- shaping: buffers traffic in the queue if configured rate is exceeded 
+	
+		- policing: drops traffic in the queue if configured rate is exceeded 
+			- offers marking instead of dropping 
+			- burst traffic: allows overages for a short period of time 
+				- traffic is sent in bursts instead of a constant stream 
+
+
+			SW1 -> CusR -> IspR ->Internet
+
+				- customer pays for a 300mpbs package 
+				- customer router [shapes] oubound traffic to 300mbps
+				- ISP router [polices] traffic to 300mbps
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+Zsh(Apple Commands)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	% mv -f test.txt test1.txt 
+		- renames and overwrites file “test.txt” to “test1.txt”
+
+	% mv Documents/test.txt Documents/directory/
+		- moves file “test.txt” in directory “Documents” to directory “directory” inside of “Documents
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	% open -R Documents
+		- reveals directory “Documents” in finder 
+
+	% open -a TextEdit test.txt	
+		- opens documents “Test.txt” with application TextEdit
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	
+	% find -d Documents 	
+		- lists directory “Documents” contents recursively from deepest to highest 
+	
+	% find -s Documents 
+		- lists directory “Documents” contents recursively in alphabetical order 
+
+	% find ~ -iname “*abc*”
+		- searches home directory for filename containing abc 
+	
+	% find . -size 33c -exec ls -al {} +
+		- searches current directory and returns any file 33 bytes in size
+		- [-exec] built-in direction telling find to execute list command afterwards (proper syntax != pipe)
+		- {} place-holder for arguments to be passed to list command
+		- [+] tells find to run list command once all files are found	
+		
+	% find / -user bandit7 -group bandit6 -size 33c 2>/dev/null
+		- searches root and returns file 
+		- [-user] owned by user “bandit7”
+		- [-group] owned by group bandit6
+		- [2>/dev/null] suppresses “permission denied” returns  		
+	
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	% nmap -sP x.x.x.x/x 
+		- ping network to reveal hosts
+	
+	% nmap -sT -p 80,443 x.x.x.x/x   
+		- full open scan for network devices with open http, https ports  
+
+	% nmap -sS -p 80,443 x.x.x.x/x 
+		- stealthy scan for network devices with open http, https ports
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	% netstat -r 
+		- displays working routing table
+
+	% netstat -I en0
+		- displays network attributes of interface “en0”
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	
+	% shutdown -r +10 “System will reboot”
+		- initiates reboot and message display timer of 10m 
+	
+	% shutdown -h +10
+		- initiates halt and shutdown timer of 10m
+	
+	% shutdown -s +10 
+		- initiates a sleep timer of 10m
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	%top
+		- displays detailed running processes 
+		**once in interactive mode, shift + ? for output manipulation help
+
+	%top -s +10
+		- displays running processes for 10 seconds 
+
+	%top -o command -s +10
+		- displays running processes in alphabetical order for 10 seconds 
+
+	%top | grep Google\ Chrome
+		- displays running processes containing the string “Google Chrome”
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	%ps -p 1234 -o pid,ppid,user,comm
+		- displays PID PPID user and process path 
+	
+	%ps -u dunnkymani | grep TextEdit
+		- displays processes running under user “dunnkymani” including the string “TextEdit” in the name 
+		**prep TextEdit
+			- returns only PID 
+
+	%kill 1234 
+		- stops a process gracefully 
+
+	%kill -9 1234 
+		- force stops a process 	
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	% ping -c 1000 127.0.0.1 
+	
+	% cntl + Z: sleeps running process 
+	
+	% jobs
+		- displays current running jobs  	 	
+	
+	$ bg %ping\  -c\ 1000\ 127.0.0.1 
+		- places job in background 
+		**cntl + [c | z] will not work on background jobs
+	
+	$ fg %ping\ -c\ 1000\ 127.0.0.1
+		- places job in foreground
+	
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	%ifconfig -l 
+		- displays available network interfaces 	
+
+	%ifconfig en0 down
+		- shuts down interface “en0”
+
+	%ifconfig -L en0
+		- limits output to display network settings for interface “en0”
+	
+	%ifconfig -X en
+		- displays network settings for interaces whose names include the regular expression “en”
+
+	% ifconfig en0 inet 192.0.2.10 netmask 255.255.255.0 	
+		- assigns 192.0.2.0/24 to interface “en0”
+
+	% ifconfig en0 inet 192.0.2.45/28 add
+		- adds 192.0.2.45/28 to addresses on interface “en0”
+
+	% ifconfig en0 inet 192.0.2.45 -alias
+		- removes 192.0.2.45 from interface “en0”
+
+	% ifconfig en0 inet6 2001:db8:bdbd::123 prefixlen 48 alias 
+		- assigns IPv6 address w/ 48 bit subnet to interface “en0”
+
+	% ifconfig en0 inet6 2001:db8:bdbd::123/48 delete 
+		- remove IPv6 address with 48 subnet from interface “en0”
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	% aea encrypt -profile hkdf_sha256_aesctr_hmac__scrypt__none -i 1.txt -o one.aea -password-value -123
+		- generates encrypted “one.aea” file from “1.txt” protected by password “123” 
+
+	%  aea decrypt -i one.aea -o one.txt -password-value -123 
+		- generates plain text file “one.txt” from encrypted file “one.aea” using password “123”
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	% zip test.zip directory  
+		- zips file named “directory” into a packge named test.zip	
+
+	% zip -r test.zip directory
+		- zips file named “directory” into a package including its contents
+	
+	% zip -er test.zip directory
+		- zips file named “directory” into a password protected package including its contents 
+	
+	% zip -erv test.zip directory
+		- zips file named “directory” into a password protected package, including its contents, whilst listing the actions
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	% chmod +x private.txt
+		- adds execute permission for the user, group, and other
+
+	% chmod -x private.txt
+		- removes execute permission for the user, group, and other 
+
+	% chmod u=w private.txt
+		- limits user to write permission
+		**% chmod u+r private.txt
+			- adds read permission explicitly for the user
+	
+	% chmod 000 private.txt
+		- removes all permission for the user, group, and other 
+
+	% chmod 777
+		- assigns permission to user, group, and other using rwx numerical associations
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	
+	% ls -l 
+		- outputs detailed list of directory contents 
+		**drwxrwxrwx = file permissions
+		- read, write, execute(open); “d” indicates the listing is a directory 
+		- each “rwx” set refers to user, group, other respectively 
+		
+		- r = 4; w = 2; x = 1; 0 = no permission 
+			ex. 777 = all permissions for user, group, other
+			ex. user: 4 2 1 = 7 
+			      group: 0 2 0 = 2 
+			      other: 4 2 0 = 6 	
+
+	% ls -ld 
+		- prints file permissions for current working directory
+
+	% ls -ld ./example
+		- prints file permissions for directory “example” using relative path	
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Terminal Help
+
+	** % bindkey 
+		! displays shell bindings	
+
+	** % bash 
+		% help <command>
+		! switches to bash for cleaner help dialogue
+		! switch back to zsh afterwards	
+
+	**tab completions
+	
+	**WAY CLEANER HELP DIALOGUE: zip -h 
+		- [-h] causes  “zip” command options and syntax output
+			** -h  OR --h OR --help  
+		- simpler than manual pages 
+			
+	
+	**tab completion: typing tab after any input lists command options
+		- ex. man + tab = man	mandoc	mandoc_soelim manpath
+	
+	%[command]: issuing the command solely without following syntax will present available syntax 
+	
+	%man -k [search term]
+	
+		- displays manual entries containing search term 
+		**search term = an individual letter, returns a list of available commands 
+	
+	:/[search term]
+
+		- finds term entries within the manual 		
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+1523 Settngs
+	 
+	- Time
+		- DD HH MM SS 
+		**DD last two of Julian date 
+		**HH MM SS(zulu[+5h])
+		- CLR & store synchronization 
+
+
+
+
+Modified Table of Organization and Equipment(MTOE)
+
+
+
+
+Help Desk
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Ethernet Cables
+
+	- 568B: OW O GW B BW G BrW BR
+
+	- straight through(access -> host): 568B - 568B
+
+	- crossover(trunks): 568B -> 568B(inside out)
+
+	- rollover(cisco proprietary): 568b -> 568B(reversed)
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+AAA - Authentication, Authorization, Accounting
+	
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	
+	- verify the identity of a user, prevent unauthorized access, record user activity 
+	
+	- external servers: RADIUS & TACACS+
+		- RADIUS: remote authentication dial-in user service 
+		- TACACS+: terminal access controller access-control system plus 
+
+	- authentication methods: PAP & CHAP
+		- PAP: Password Authentication Protol - simple username and password authentication 
+		- CHAP: Challenge Handshake Authentication Protocol - self explanatory, more secure authentication means 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	- RADIUS 
+	
+		- Internet Engineering Task Force(IETF)-standard protocol
+	
+		- authentication and authorization process combined 
+
+		- encrypts passwords 
+
+		- Authentication/Authorization: UDP port 1812 
+		
+		- Accounting: UDP port 1813 
+ 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	- TACACS+ 
+
+		- Cisco-proprietary protocol
+
+		- separate authentication, authorization, accounting process 
+
+		- encrypts the entire contents of packets 
+
+		- AAA: TCP port 49 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	#aaa new-model 
+		- enables AAA services on the local device 
+
+	**create local database user as a backup in the event you’re locked out of your device 
+
+	#aaa authentication ppp AAALab tacacs local 
+		- configures AAA authentication on the router, active authentication method, and failover methods 
+		**router uses PPP to authenticate username: “AAALAB”	—>	failover is the TACACS+ server	—>	failover is the local user database 
+
+	#username AAALab password Cisco
+		- local user database entry credentials 
+
+	P1R1#interface Serial0/1
+		#ppp authentication pap AAALab
+		#ppp pap sent-username P1R1 password cisco 
+		- configures int S0/1 w/ PAP —>	specifies the TACACS+ methods to use(AAALab)
+		- enables remote authentication to another device 
+
+	P1R2#interface Serial0/0
+		#pppppp authentication pap
+		#ppp pap sent-username AAALab password cisco 
+		- configures int S0/0 w/ PAP —> no TACACS+ methods
+		- enables remote authentication to another device 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+Power Over Ethernet
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	#show power inline
+		- displays available, used, remaining power, and port distribution
+
+	#power inline auto
+		- automatically detect and power inline devices 	 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+DNS
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	
+	- dns is used to resolve human-readable names(google.com) to IP addresses
+
+	- machines such as PCs don’t use names, they use addresses(ie. IPv4/IPv6)
+
+	- names are much easier for us to use and remember than IP addresses
+		- what’s the IP address of youtube.com 
+
+	- when you type ‘YouTube.com’ into a web browser, your device will ask a DNS server for the IP address of youtube.com 
+
+	- the DNS server(s) your device uses can be manually configured or learned via DHCP 
+
+		>ipconfig /all
+			- displays NIC information including DNS address
+		
+		>ipconfig /all | findstr dns 
+			- similiar to cisco usage of pipe extensions 
+			- useful on any command
+		>nslookup 
+			- DNS mode for lookup and DNS information
+
+		>ipconfig /displaydns
+			- DNS cache
+	
+		>ipconfig /flushdns
+			- empties DNS cache 
+
+	- DNS ‘A’ record: maps names to IPv4 addresses 
+
+	- DNS ‘AAAA’ record: maps names to IPv6 addresses
+
+	- Port 53: DNS - UDP(messages less than 512 bytes); TCP(messages) greater than 512 
+
+	\\..\Windows\System32\drivers\etc\hosts.txt
+		- file containing mappings of IP addresses to host names
+
+	- routers can be configured as both DNS server(rare) and client 
+
+	#ip dns server
+		- configures router to act as the DNS server 
+
+	#ip host R1 192.168.0.1
+	#ip host PC1 192.168.0.101
+	#ip host PC2 192.168.0.102
+	#ip host PC3 192.168.0.103
+		- list of hostname/IP address mappings
+
+	#show hosts
+		- displays router(servers) stored  mappings 
+
+	#ip name-server 8.8.8.8
+		- DNS server current router will query when acting as the client 
+
+	#ip domain lookup 
+		- enables current router to perform DNS queries 
+		**ip domain-lookup
+
+	#ip domain name
+		- routers default domain name 
+		*ip domain-name
+
+		- domain name is automatically appended to any hostname without a specified domain
+		ex. ping PC1 -> ping pc1.<domain>.com
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+	
+FTP & TFTP
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	
+	- industry standard protocols used to transfer files over a network
+	
+	- client - server topology
+
+		- copies files to/from a server 
+		ex. upgrading network device OS 
+
+	#show file systems 
+		- displays cisco storage mediums
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	- TFTP: trivial file transfer protocol 
+
+		- file copy to/from the server 
+
+		- no authentication(user/PW)
+
+		- no encryption
+
+		- UDP port 69
+			ex. Uploading to a server
+			- client requests, server ACK messages 
+			- server resend ACK after a timer expires w/o data stream
+			SIMPLY: i. connection(req & ack) ii. data transfer(data & ack) iii. connection termination(final data, final ack)
+
+		
+		#show version
+			**displays running ios
+		#show file system
+			**displays on board storage 
+		#copy tftp: flash: 
+			**copy [source][destination
+		?192.168.1.1
+			**server ip
+		?[file name on the server]
+		?[desired end state file name]
+		#show flash 
+		#boot system [file path]
+			**points to the file 
+		#write memory 
+			**saves file to nvram(non volatile)
+		#reload
+			**reboots 
+		#show version
+		#delete [file path]
+			**removes old ios
+		#show flash 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+		
+	- FTP: file transfer protocol
+
+		- copies to/from server•navigate directories•add/remove directories•list files
+			- tasks coincide with commands send to the server 
+	
+		- authentication required(user/PW)
+
+		- no encryption(including user/PW)
+
+		- TCP port 20 & 21 
+			- 21: control port(persistent connection•FTP commands•replies)
+			- 20: data port(established and terminated as needed)
+				- active mode: server initiates the TCP connection(client ACK)
+				- passive mode: client initiates the TCP connection(server ACK)
+					**TCP requests are typically dropped from a source to a destination protected by firewall 
+					**passive mode remedies this topology allowing the client to initiate the connection
+
+		
+		#ip ftp username [username]
+		#ip ftp password [password]
+		#exit
+		#copy ftp: flash:
+			**copy ftp://[ftp server ip]/[file]/[filename] flash:[filename]
+			**copy ftp://[username]:[password]@[ftp server ip]/[file]/[]filename flash:[filename
+				^^bypasses default authorization configuration
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+FRHP(First Hop Resolution Protocol)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	- 3 protocols
+		
+	- primary objective is load balancing and network redundancy 
+
+	- configures 2 or more routers in an active & standby topology using virtual gateway and MAC addresses 
+
+		- active/standby terms vary per FHRP protocol
+	
+	- routers send multicast “hellos” to negotiate roles 
+
+	- end devices send ARP requests for the vMAC assigned to the VIP 
+
+	- active router responds with the vMAC OR the backup router sends gratuitous ARP responses to update MAC address tables 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	- HSRP: hot standby router protocol 
+
+		- cisco proprietary 
+
+		- active/standby election
+		
+		- single active - per - subnet load balancing 
+
+		- v1/v2
+		
+			- v2 adds IPv6 support and increases the # of groups that can be configured
+			
+			- v1 & 2 are not compatible; configuration has to be consistent throughout the topology 
+		
+		- v1Multicast: 224.0.0.2
+		
+		- v2Multicast: 224.0.0.102 
+
+		- v1MAC: 0000.0c07.ac##
+				
+			- ## = HSRP group
+
+		- v2MAC: 0000.0c9f.f###
+				
+			- ### = HSRP group
+	
+	#int g0/0
+	#standby [HSRP parameter]
+	#standby version 2 
+	#standby 1 ip 172.16.0.254
+		- VIP
+	#standby 1 priority 200
+		- value•ip address determines active router 
+	#standby 1 preempt
+		- sets current router to active - when online - regardless of others in the topology 
+	
+	#show standby 
+  
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+	
+	- VRRP: virtual router redundancy protocol
+
+		- open standard 
+
+		- master/backup election 
+
+		- single master - per - subnet load balancing 
+
+		- Multicast: 224.0.0.18
+
+		- vMAC: 0000.5e00.01##
+
+			- ## = VRRP group 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+
+	- GLBP: gateway load balancing protocol
+
+		- cisco proprietary 
+
+		- multi active - per - subnet load balancing 
+
+			- AVG: active virtual gateway, elected for the subnet
+
+			- AVF: active virtual forwarders, up to four gateways within a single subnet 
+				**AVG can be an AVF 
+
+		- Multicast: 224.0.0.102
+
+		- vMAC: 0007.b400.[##][##]
+
+			- ##: GLBP group
+
+			- ##: AVF
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+
+
+
+
+Multilayer Switching
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	- packet forwarding via layer 3 switching 
+
+	- generally require a few commands to enable
+
+	#ip routing 
+	
+		- enables packet forwarding 
+	
+	#no switchport 
+				
+		- disables layer 2 protocol/enables layer 3 on the port 
+
+	#int vlan ####
+	
+		- declares switched virtual interface(SVI) through which traffic is routed 
+
+		#ip add ####
+			- address local to the subnet residing within the vlan 
+			- address serves as the gateway for the vlan
+		
+	**permits inter-vlan routing & packet forwarding w/o the ROAS topology
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+STP
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	
+	- port role comprehension
+
+		- draw topology
+
+		- form connection matrix detailing connections in relation to interface per device
+
+		- determine root bridge
+
+			- bridge priority•bridge ID(MAC)
+		
+		- WAVE I (designated ports + root ports)
+
+			**root bridge ports default to designated role
+			
+			- cost•port #
+
+		- WAVE II (designated ports + alternate ports)
+
+			- bridge ID
+		
+		**backup ports work in conjunction with designated ports connected to hubs 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	- spanning-tree protocol 
+		
+		- anti broadcast-storming
+	
+		- configures a singular path amongst interconnected switches, without loops 
+			
+			**automatic functionality(one of the fundamental behaviors of cisco switches) 
+					
+		- places interfaces(trunking ports) in 1 of 2 primary states(there are 4 in total) 
+
+			- forwarding: sending and receiving frames
+
+			- blocking: receiving, but not sending BPDU messages in anticipation of a necessary state transition
+				
+				**listening & learning are transition states from blocking to forwarding 
+				
+				**this is the redundancy measure spanning-tree provides 
+		
+		- assigns interface roles 
+				
+			- root port: primary forwarding port(lowest cost toward the root bridge) 
+			
+			- designated port: forwarding 
+			
+			- non-designated port: blocking
+	  
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	#show spanning-tree 
+
+		- displays root-bridge (switch with the lowest priority, MAC)
+	
+		- displays current bridge information 
+		
+		**#show spanning-tree ?
+			- display more detailed information 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	- PVST & PVST+
+
+		- per vlan spanning-tree 
+
+			- allowing differing topologies per vlan
+			
+			ex. 2 pvst instances with differing root bridges amongst the same devices 
+		
+		- PVST: ISL trunking protocol ONLY 
+	
+		- PVST+: adds 802.1q trunking compatibility 
+	
+		#vlan ####
+	
+			**creates the aforementioned vlan, subsequently generating the spanning-tree instance
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	#spanning-tree portfast 
+		
+		- portfast: skips listening/learning state 
+			
+		- not to be used on trunking ports 
+			
+		- allows immediate network access to end users 
+			
+	#spanning-tree portfast default 
+		
+		**enable portfast on all access ports
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+		
+	#spanning-tree portfast trunk	
+		
+		- portfast(trunk)
+			
+		**useful for server connections and router on a stick port	
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+		
+	#spanning-tree bpduguard enable 
+		
+		- BPDU guard: port shuts down up receipt of a BPDU message 
+			
+		- used in conjunction with portfast to avoid broadcast storms upon topology change 
+			
+	#spanning-tree portfast bpduguard default
+			
+		**enables bpduguard on all portfast interfaces 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	#spanning-tree bpdufilter enable
+
+		- disables BPDU messages on the port(essentially disabling STP) 
+			
+	#spanning-tree portfast bpduFilter default
+		
+		**enables bpduFiltering on all portfast interfaces 
+			
+			- simply disable bpdu filtering on desired ports 
+			
+		**safer bet so as to avoid broadcast storms: bpduFilter is triggered 
+			
+		and port operates normally, subsequently triggering the bpduGuard and errDisabling
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+		
+	#spanning-tree guard root 
+
+		- root guard: stops interface from adopting new root bridge(regardless of priority/MAC)
+	
+		- ensures topology behavior remains the same regardless of the priority of new switches 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	#spanning-tree vlan 1 root primary
+
+		- sets current bridge to the root bridge for the aforementioned vlan 
+			
+		- useful for STP load balancing(differing port roles)
+			
+	#spanning-tree vlan 1 root secondary 	
+			
+		**sets backup root bridge 
+			
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+IPv6
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	- static route statements 
+
+		- directly attatched(exit interface)
+
+			#ipv6 route 2001:db8:0:3::/64 s0/0
+			**inoperable configuration on ethernet interfaces 
+
+		- recursive route(next-hop address)
+
+			#ipv6 route 2001:db8:0:3::/64 2001:db8:0:12::2
+
+		- fully specified(containing both exit interface and next-hop address)
+
+			#ipv6 route 2001:db8:0:3::/64 g0/0 2001:db8:0:12::2
+			**link local routes are always fully specified 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	- static route types 
+
+		- network
+
+			#ipv6 route 2001:db8:0:3:::/64 [next-hop]
+
+		- host 
+
+			#ipv6 route 2001:db8:0:3::100/128 [next-hop]
+
+		- default
+			
+			#ipv6 route ::/0 [next-hop]
+
+		- floating(recursive + administrative distance)
+
+			#ipv6 route 2001:db8:0:3::/64 2001:db8:0:12::2 2 
+			**[2] > the default administrative distance of static routes(1)
+			**ensure administrative distance is greater than that of the current protocol in use 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	
+	- SLAAC: stateless address auto configuration
+
+		- uses NDP to learn next-hop prefix and EUI64 to generate an IPv6 address on the interface 
+			
+			#ipv6 address autoconfig 
+  
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	- NDP: node discovery protocol 
+	
+		- replaces IPv4 ARP 
+
+		- uses solicited node multicast address to learn neighboring MAC addresses 
+
+		- NS/NA messages 
+
+			- neighbor solicitation: what’s your MAC?
+
+			- neighbor advertisement: my MAC is…
+	
+			**messages form the MAC address table
+
+		RS/RA messages 
+
+			- router solicitation: hello? 
+				- send to FF02::2(all routers) 
+
+			- router advertisement: i am…(node information)
+				- sent to FF02::1(all nodes)
+			
+			**messages form the NDP table
+			
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	- solicited node multicast address
+
+		- calculated from prefix + last 6 bits from configured unicast
+
+			ex. 2001:db8::1:f2a:4fff:fea3:b1
+
+			2001:db8:0000:0001:0f2a:4fff:fea3:00b1
+
+			a3:00b1 
+
+			ff02::1:ffa3:b1
+		
+		- interface nodes automatically join solicited node multicast address 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	- ipv6 extra utilities
+
+		- [::] unspecified ipv6 
+			**0.0.0.0 equivalent
+
+		- [::1] loopback address
+
+		- ::/0 default route
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	- anycast 
+
+		- one to any connection(first/nearest available)
+
+		- use any global unicast or unique local address
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+		ex. #ipv6 address 2001:DB8:1:1::99/128 anycast
+		      
+		      #show ipv6 int g0/0
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	
+	- multicast ipv6
+	
+		** there is no broadcast address in ipv6 techinally 
+
+		- FF00::/8(FF00:: TO FFFF:FFFF:FFFF:FFFF:FFFF:FFFF:FFFF:FFFF)
+		
+		- FF02::1 all hosts/nodes 		
+
+		- FF02::2 all routers 
+	
+		- FF02::5 all ospf 
+
+		- FF02::6 all ospf DR/BDR
+
+		- FF02::9 all rip routers
+
+		- FF02::A all eigrp routers 
+
+		**scope(distances/domains)
+
+			- FF01 interface scope(unpingable)
+
+			- FF02 link local scope(directly pingable; unroutable) 
+
+			- FF05 site local scope(inter-LAN scope)
+
+			- FF08 organizational scope(WAN scope) 
+
+			- FF0E global scope(publically routable[inter-WAN or internet]) 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	- link local(protocol accomodations)
+
+		- auto generated 
+		- interface ID is generated using EUI64 rules
+		- used for protocol parrings(LSAs, NDPs,etc)
+			**NDP: neighbor discovery protocol 
+				- essentially ARP for ipv6 
+		- used for next hop resolutions; DOES NOT ROUTE PACKETS 
+		
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+		#ipv6 enable
+		**enables ipv6 and generated link local address
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	- Eui 64 
+		
+		- extended unique identifier
+		- “modified eui 64” 
+		- converts 48bit mac to 64 bit interface identifier
+		- becomes the host portion of a /64 IPv6  
+		- how to convert(done automatically on the interface) 
+	
+		ex. 1234 5678 90AB
+	
+		divide mac in half
+
+		1234		56 	||	78	90AB
+
+		insert 0xFFFE in the middle 
+
+		1234		56FF		FE78		90AB
+
+		invert the 7th bit
+
+		1[2]34		56FF		FE78		90AB 
+
+		0x2
+	
+		0d2 
+	
+		0b0010
+
+		0b0000
+
+		0d0
+
+		0x0
+
+		1034		56FF		FE78		90AB 		
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+		782B CBAC 0867
+		
+		782B		CB	||	AC		0867
+
+		782B		CBFF		FEAC		0867
+
+		0x8
+
+		0d8
+
+		0b1000
+
+		0b1010
+		
+		0d10
+
+		0xA
+
+		7A2B CBFF FEAC 0867
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+		#show interfaces
+		*annotate the mac		
+
+		#ipv6 address 2001:dB8::/64 eui-64
+		*configures the IPv6 address 
+			- [global unicast identifier][EUI] 
+	
+		#show ipv6 interface brief
+		*compare address and mac relations
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	- unique local address(PRIVATE UNICAST)	
+	
+		- FC::00/7(FC00:: to FDFF:FFFF:FFFF:FFFF:FFFF:FFFF:FFFF:FFFF)
+
+		ex. FD45:93AC:8A8F:0001::/64
+
+			- [FD] unique local identifier
+
+			- [45:93AC] global ID 
+				**randomly generated to avoid overlaps
+
+			- [0001] subnet ID 
+			
+			- [::1] interface identifier
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	- global unicast address(PUBLIC UNICAST)
+		
+		- 2000::/3(2000:: to 3FFF:FFFF:FFFF:FFFF:FFFF:FFFF:FFFF:FFFF)
+		
+		ex. 2001:DB8:8B00:0001::1/64
+
+			- [2001:DB8:8B00] global routing prefix 
+			
+			- [0001] subnet identifier
+
+			- [::1] interface identifer 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+Find Network Address From Host
+
+	- 172.16.33.47/25
+
+		**convert address & subnet to binary**
+
+		10101100	00010000	00100001	00101111
+		11111111	11111111	11111111	10000000
+		 
+		**multiply**
+
+		10101100	00010000	00100001	00000000
+
+		**convert binary to decimal
+
+		172.16.33.0/25 		
+
+	
+	- 172.16.33.47/29
+
+		10101100	00010000	00100001	00101111
+		11111111	11111111	11111111	11111000
+
+		10101100	00010000	00100001	00101000		
+
+		172.16.33.40
+			.40 N
+			.47 B 
+			.41 G 
+			.42 - .46 Hs
+
+	**SHORTCUT**
+	
+		**convert address to binary 
+
+		10101100	00010000	00100001	00101111
+		
+		**invert bits beyond subnet(network bits) to hosts(0s)
+
+		10101100	00010000	00100001	00101000
+
+		**convert binary to decimal**
+
+		172.16.33.40/29
+
+
+		
+				
+
+
+
+IPv6 Address Types 
+	
+	- global unicast address: host address 
+
+		- 2001:0DB8:8B00:1::1/64 
+			
+			- 64 network bits
+			
+			- 64th bit(1) operates as the subnet identifier(last network bit )
+			
+			- 128th bit(1) operates as a host bit 
+
+			- global routing prefix: 2001:0DB8:8B00:1000/64 
+				**simply 0 host bits
+				
+		
+		- 300D:00F2:0B34:2100::1200:0001/56
+
+			- 56 network bits 
+
+			- 2[1]00 ~~~ 1 operates as the subnet identifier 
+		
+			- global routing prefix: 300D:00F2:0B34:2100::/56
+		
+	
+		- 2001:0DB8:8B00:0001:FB89:017B:0020:0011/93
+
+			- 93 network bits 
+
+			- 017[B] ~~~ B CONTAINS THE BIT, that operates as the subnet identifier 
+			
+				- B = 0xB
+
+				- 0xB = 0d11 
+
+				- 0d11 = 0b1011
+
+				- 0b[1]011 ~~~ 1 operates as the subnet identifier
+
+				- 0b1011 becomes 0b1000
+			
+				- 0b1000 = 0d8
+
+				- 0d8 = 0x8 
+
+				- 017[B] becomes 0178
+
+			- global routing prefix: 2001:DB8:8B00:1:FB89:178::/93 
+			
+
+
+
+IPv6 Address Simplification 
+
+	- 2001:0DB8:000A:001B:20A1:0020:0080:34BD
+		
+		**leading 0s**
+
+		- 2001:DB8:A:1B:20A1:20:80:34BD
+
+	- 2001:0DB8:0000:0000:0000:0000:0080:34BD
+
+		**consecutive 0s** 	
+		
+		- 2001:0DB8::0080:34BD
+	
+		**leading 0s**		
+		
+		- 2001:DB8::80:34BD
+	
+	- 2001:0000:0000:0000:20A1:0000:0000:34BD
+	
+		**consecutive 0s(can only be abbreviated once)**
+		
+		- 2001::20A1:0000:0000:34BD
+		
+		**leading 0s**
+	
+		- 2001::20A1:0:0:34BD
+
+
+
+
+GK
+	
+	- 8 bits = 1 byte 
+		
+	- 1 byte = …2² 2¹ 2⁰
+
+	- IPv4: 4 octets
+		- 8 bit groups represented in decimal  
+		- 32 bits 
+			- /32 subnets
+		
+	- IPv6: 8 quartets
+		- 16 bit groups represented in hexadecimal 
+		- 128 bits
+			- /128 subnets 
+
+
+
+
+Binary to Hexadecimal
+
+	- 0b11011011
+		- 0b1101	0b1011
+		- 0d13		0d11
+		- 0xD		0xB
+		- 0xDB
+
+	- 0b00101111
+		- 0b0010	0b1111
+		- 0d2		0d15
+		- 0x2		0xF
+		- 0x2F
+
+	- 0b10000001
+		- 0b1000	0b0001
+		- 0d8		0d1
+		- 0x8		0x1
+		- 0x81 
+
+
+
+
+Hexadecimal to Binary 
+	
+	- 0xEC
+		- 0xE		0xC
+		- 0d14 	0d12 
+		- 0d1110	0d1100
+		- 0d11101100
+	
+	- 0x2B
+		- 0x2		0xB
+		- 0d2		0d11
+		- 0b0010	0b1011
+		- 0b00101011
+
+	- 0xD7
+		- 0xD		0x7
+		- 0d13		0d7
+		- 0b1101	0b0111
+		- 0b11010111
+
+	
+
+
+Multicast Addresses
+
+	- 224.0.0.1: all hosts(nodes) on a local network
+
+	- 224.0.0.2: all routers on a local network
+	
+	- 224.0.1.1: NTP
+ 
+	- 224.0.0.5: ospf routers 
+
+
+
+
+Classful Addressing
+
+	- A: 1.0.0.0 - 126.255.255.255
+		- /8
+		**private: 10.0.0.1 - 10.255.255.255
+
+	- B: 128.0.0.0 - 191.255.255.255
+		- /16		
+		**private: 172.16.0.0 - 172.32.255.255
+			
+	- C: 192.0.0.0 - 223.255.255.255
+		- /24
+		**private: 192.168.0.0 - 192.168.255.255
+
+	- D: 224.0.0.0 - 239.255.255.255
+		- /32
+		- multicasting addresses 
+
+	- E: 240.0.0.0 - 255.255.255.255 
+		- experimentakl use and testing
+
+
+
+
+GK
+	- BLOS: beyond line of sight(hawkeye•other forms of satcom)
+
+
+
+
+MPLS(Multi Protocol Label Switching)
+
+	- comparison to traditional switching(router function)
+		- every router performs an IP lookup
+		- traditionally, the router determines next-hop based on routing table
+		- wasteful in terms of resources and time
+	
+	- MPLS uses LABLES instead, to improve QoS, connectivity, and mesh topology capabilities
+		- packets are tagged with MPLS labels 
+		- packets undergo “label-switching” as they travel through the internet, eliminating subsequent header examinations
+			**edge routers are the only two that investigate the header for the necessary information(source, destination, transport layer data, QoS, etc) 
+	
+	- HOW IT WORKS
+		- assign labels to each route in the routing table(16-######)
+			ex. R1 - 1.1.1.1/32 == 100
+				R2 - 2.2.2.2/32 == 200
+		- share labels(LDP - label distribution protocol•automatic process)
+		- build table-based forwarding table 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	- MPLS
+		
+		- show mpls neighbor
+	
+		- show mpls forwarding table’
+
+		- encapsulation mpls
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+		#show mpls ldp neighbor
+
+		#show mpls forwarding-table
+	
+		#interface g0/1
+		#encapsulation mpls
+		#mpls label protocol ldp 
+		#mpls ip 
+
+		#mpls ?
+
+		# show mpls ldp bindings
+		
+		#show mpls ldp discovery 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+	
+Etherchannel
+	
+	- useful for load balancing between two devices(layers 2 & 3)
+
+	- directs 2 or more ports to act as one in the interest of increasing bandwidth 
+		**stp isolates frames/packets to a preferred route to avoid looping, rendering other links obsolete 
+
+	- load is balanced based on flows
+		**flows is the communication between two nodes(devices) in the network(consistent etherChannel path)
+
+	- calculations are made to determine etherChannel path 
+		- inputs for consideration
+			- source MAC	
+			- destination MAC
+			- source and destination MAC
+			- source IP
+			- destination IP
+			- source and destination IP
+			- layer 4 port(tcp/udp)
+	
+	- interfaces(max of 8) must have identical configurations
+		
+	- methods of etherChannel
+	
+		- PAgP(Port Aggregation Protocol)
+			**cisco proprietary, dynamic etherchannel negotiation 
+		- LACP(Link Aggregation Control Protocol)
+			**preferred, universal, dynamic etherchannel negotiation
+		- Static etherChannel 
+			**manual etherchannel formation not requiring algorithm or discovery protocol
+
+
+
+
+Security Policy
+
+	- manufactures default security configuration
+	**contains default passwords, configurations, and management information
+
+
+
+
+Scripting
+	
+	- issuing commands in similar fashion multiple times(batch/preset commands)
+	- powershell
+		- speaks in cmdlets and cmds
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	Script 1 
+	
+		- suspend output being written to the command prompt
+		- calls the system command to produce a network configuration summary and redirects(pipes) its output to a text file  
+		- waits and prompts the user to press a key, then opens the report file in Notepad
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+		>@echo off
+		>ipconfig /all > report.txt
+		>echo Press a key to view report 
+		>pause > nul
+		>notepad report.txt
+	
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	
+		- reads the script from the parent folder to the command prompt
+ 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	
+		>documents\test.cmd
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	Script 2 
+		
+		- displays list of numerals 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+		>iHigh = 50
+		>iLow = 10
+		>for i = 1 to 5 
+			randomize
+			iDisplay  = int((iHigh - iLow + 1) * rnd + iLow)
+			wscript.echo iDisplay 
+		>next 
+			
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	
+		>cscript documents\test.vbs
+	
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	Script 3 
+
+		- displays list of numerals & provides informative feedback
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+		>iHigh = 50 
+		>iLow = 10
+		>iCount = 0
+		>sTitle = “Number Count”
+		>for i = 1 to 10 
+			randomize 
+			iDisplay = int((iHigh - iLow + 1) * rnd + iLow) 
+			wscript.echo iDisplay 
+			if iDisplay > 25 then 
+				iCount = iCount + 1 
+			end if 
+		>next 
+		>sMsg = cstr(iCount) + “numbers are greater than 25”
+		>msgbox sMsg, vbOkOnly, sTitle
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	Script 4 
+		
+		- displays system information
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+		>Get-WmiObject -Class Win32_OperatingSystem -ComputerName localhost
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	Script 5 
+
+		- displays hostname
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+		>Get -WmiObject -Class Win32_OperatingSystem -ComputerName localhost | Select-Object -Property CSName
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	Script 6
+		
+		- displays all current running services
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+		>Get-Service
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	Script 7 
+		
+		- limits display of current running services to display name
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	Script 8 
+
+		- limits lists of current services to display name and current state 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+		
+		>Get-WmiObject win32_service | Select DisplayName, State | SortState, DisplayName
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++s
+		
+	Script 9(Powershell: run as admin)
+	
+		- enable scripts without valid coding certificate 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+		>Set-ExecutionPolicy RemoteSigned		
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+		
+
+
+
+
+Switch GK 
+
+	- fundamental behaviors
+		- learn
+			- adds MAC address table entries
+		- flood
+			- sends frame out of all ports(multicast frames) ACCEPT receiving port
+			**switch also floods when unicast frame is received from MAC address foreign to the table
+		- forward	
+			- forwards frame to port that responds with the destination Mac
+
+	- interface(port) security
+		
+		- allowed on trunk/access ports
+			**not allowed on dynamic auto/desirable ports
+
+		- errdisable recovery
+			- re-enables interfaces, after a specified time, if enabled for the listed 			  cause of disablement 
+
+		- violation modes
+			- shutdown
+				- err-disabled state(shutdown) 
+				- generates syslog and/or SNMP message 
+				- violation counter + 1 
+			- restrict 
+				- discards traffic from unauthorized mack 
+				- interface remains up
+				- generates syslog and/or SNMP message
+				- violation counter + 1 / per frame
+			- protect 
+				- discards traffic from unauthorized mack 
+				- interface remains up
+				- DOES NOT generate syslog and/or SNMP message 
+				- DOES NOT increment the violation counter 	
+		
+		- MAC address aging
+				- default: 0min (no age out) 
+					- static addresses won’t age out 
+					**sticky MACS don’t age out
+					**#switchport port-security aging static 
+						- enables aging for static addresses
+				- type 
+					- absolute
+						- address is learned, aging timer starts, and is 						  removed once timer expires 
+ 					- inactivity
+						- address is learned, aging timer starts, and 						  restarts upon every frame reception 
+
+
+
+
+Hawkeye Transec Terms
+	
+	- CSP: certificate signature request
+
+	- RSP: remote security package 
+		
+
+
+
+GK
+	- adding IPs to management laptop “advanced” tab sets management laptop as a host on remote device network
+
+
+
+
+Hawkeye Manual Point
+	
+	- go to working hawkeye
+
+	- iPhone measurement app
+
+	- place phone(long side) behind left stand
+
+	- record the displayed level
+	
+	- place phone(short side) at the L3 line 
+
+	- record the displayed compass angle 
+
+	- stow broken hawkeye 
+	
+	- adjust peak and poll using controller for highest signal strength
+
+
+
+
+Load Bootfile Hawkeye
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	- annotate boot file(for SES)
+	
+	- find and copy contents of bootfile 
+		*cli bootfile contains “echo” commands 
+	
+	- putty into the modem
+
+	- login
+
+	  #lway stop
+	
+	- paste contents
+
+	  #lway start 
+
+	  #ttelnet
+	
+	  #rtp
+		**displays neighbors 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+GK
+	
+	- OEM: original equipment manufacturer software
+		
+		- single-use license; tied to the original machine 
+
+Integrated Development Environment
+	
+	- programming tool, designed to make working with a given language easier
+		ex. NetBeans - Java
+
+
+
+Interpreted Programming Languages(compiled in realtime by an interpreter)
+
+	**scripting languages 
+
+	- JavaScript
+
+	- Perl
+
+	- Python
+
+
+
+
+Compiled Programming Languages(converts to machine code when compiled)
+	
+	- C++
+	
+	- C#
+		
+	- COBOL
+
+	- PASCAL
+
+
+
+
+Data Types
+	- integer: 1 12 546 15 5
+	
+	- floating-point: 4.5 
+
+	- boolean: true(1) OR false(0)
+
+	- characters: a D T @ $
+	
+	- strings:
+		
+		- “XYZ” \hello world\ 
+		
+		** “hello \world\ “
+		
+		**contains double quotations
+	
+	- unicode: data representation format that can encode the widest range of
+	  characters 
+
+
+
+Servers
+
+	GK
+		- ports describe virtual connections to specific services
+			**ips describe physical connections(locations)
+		
+		- port types:
+			- tcp: Transmission Control Protocol(connection based port)
+			- udp: user datagram protocol(connectionless) 
+
+	- netstat
+		- windows command 
+		- displays current virtual connections 
+
+
+
+	
+Creating and Using a Database
+	
+	- databases organize stored data in a manner that makes it relatively easy to retrieve data 
+		- Apache Open Office
+		**SQL underlying equivalent of CLI 
+
+Database syntax 
+
+	- “ 
+		- “monty python”
+
+		- specify a match to the exact phrase as typed
+
+	- + 
+		
+		- +snake +Python
+	
+		- words that must be found in the documents exactly as typed
+
+	- - 
+
+		- python -Monty
+
+		- excluded the following word
+
+	- OR
+		
+		** |(pipe)
+
+		- snake | python
+
+		- find either word
+
+	- * 
+			
+		- genius * python
+
+		- represents unknown words in between the known 
+
+
+
+
+Windows prompts(see link above)
+
+	- “XXXX” /?
+		**”XXXX” - - help
+		- generates options for given command
+
+	- ipconfig
+		- generates PC networking information
+
+	- ipconfig /all
+		- generates detailed networking devices information
+	
+	- ctrl + shift + esc 
+		- launch tack manager 
+		**right click task bar 
+		**right click start button
+		**windows + x 
+	
+	- taskkill
+		- “end task” 
+
+	- ctrl + f5
+		- reloading page with renewed cache
+
+	- right click “this pc” in file explorer 
+
+		- launch Computer Management Console 
+
+	- diskmgmt.msc
+
+		- launches disk management utility
+		**windows + x 
+		
+	- netstat
+		- displays current protocol(4), local address, foreign address, and link state of current internet connections
+		**netstat -r
+			- host routing table
+		**netstat -an
+			- current TCP connections
+
+
+
+
+CISCO CLI capabilities(search “Command Reference” on cisco.com)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	- mtu adjust
+
+		- adjust packet size per transmission
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+		#interface g0/0/0
+		#ip mtu #######
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	- mss adjust
+
+		- adjust TCP segment size per payload 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+		#interface g0/0
+		#ip tcp adjust-mss #######
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	- ospf passive interface
+
+		- discontinues LSAs
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+		
+		#router ospf 1 
+		#passive-interface default
+			**LSAs will not be sent from interfaces participating in “ospf 1”
+		#no passive-interface g0/0
+			**LSAs will be sent explicitly from aforementioned interfaces 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	- ospf cost 
+
+		- adjust cost in relation to reference bandwidth(propagate throughout the domain)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+		
+		#router ospf 1 
+		#auto-cost reference-bandwidth #######
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	- ip phone
+
+		- configure switch interfaces(voice and data vlan)
+	
+		- configure router-on-a-stick
+
+		SW1#interface g0/1
+		       #switchport mode access 
+		       #switchport access vlan  10 
+		       #switchport voice vlan 20 
+		       #no shutdown 
+		       #exit
+
+    		       #interface g0/10
+ 	 	       #switchport mode trunk
+		       #switchport mode allowed vlan 10,20 
+	 	       #no shutdown
+		       #exit
+
+		RT1#interface g0/10
+		      #no shut
+		
+		      #interface g0/10.10 
+		      #encapsulation dot1q 10 
+		      #no shutdown 
+		      #exit
+
+		      #interface g0/10.20
+		      #encapsulation dot1q 20 
+		      #no shutdown 
+		      #exit 
+		 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	- basic layer 2 etherchannel
+
+		#int range g0/0-2
+
+		#switchport mode trunk
+
+		#channel-group ### mode [mode parameter]
+
+		#port-channel load-balance [load-balance parameter]
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	- basic layer 3 etherchannel 
+
+		#int range g0/0-2 
+
+		#no switchport 
+
+		#channel-group ### mode [mode parameter]
+	
+		#port-channel load-balance [load-balance parameter]
+
+		#int po###
+
+		#ip add [address][subnet]
+
+		#ip route 0.0.0.0 0.0.0.0 [next hop etherchannel interface ip]		
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ 	- etherChannel load-balance considerations
+
+		#show etherchannel load-balance
+
+	- etherchannel summary 
+		
+		#show etherchannel summary 
+		
+		#show etherchannel port-channel
+
+		#show 		 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	- show cdp neighbours
+
+		- displays directly connected hostname + interface 
+		**may/may not disclose all 
+
+		#show cdp neighbors 
+
+		**show cdp ? 	
+		
+		**cdp run
+		- enables cdp 
+
+		**cdp enable
+		- enables cdp discovery
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Virtual Route Forwarding(VRF)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	
+	- create vrf instances 
+		#ip vrf customer1
+		#ip vrf customer2 
+		#show ip vrf 
+
+	- enable vrf per interface 
+		#interface g0/0
+		#ip vrf forwarding customer1
+		#ip address 192.168.0.1 255.255.255.252
+		#no shutdown
+
+		#interface g0/1
+		#ip vrf forwarding customer2	
+		#ip address 192.168.0.1 255.255.255.252
+		#no shutdown 
+
+	- display vrf instances
+		#show vrf
+
+	- display interfaces participating in vrf routing
+		#show ip vrf interfaces 
+	
+	- create vrf routes(address families) 
+		#router ospf 1 
+		#address-family ipv4 vrf customer1 
+		#network 0.0.0.0 255.255.255.255 area 0
+		
+		#router ospf 2 
+		#address-family ipv4 vrf customer2
+		#network 0.0.0.0 255.255.255.255 area 0
+
+	- display vrf routing tables 
+		#show ip route vrf customer1
+		#show ip route vrf customer2 
+ 	 
+	- ping across a vrf
+		#ping vrf customer1 192.168.0.1
+		#ping vrf customer2 192.168.0.1
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	- route distinguisher(RD): virtual tag used to identify vrf association
+		ex. VRF Customer1
+			RD: 65000:10
+			
+			VRF Customer2
+			RD: 65000:20
+
+	- route tag(RT): virtual tag used to identify ingress/egress targets inside/outside the vrf
+		ex. VRF Customer1
+			RD: 65000:10
+				RT export: 65000:100
+				RT import: 65000:100
+
+		      VRF Customer2
+			RD: 65000:20
+				RT export: 65000:200
+				RT import: 65000:200
+		**sharing RTs allows inter-VRF communication 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	- port security 
+		- enable port security
+		- static Mac
+		- assign violation mode 
+		- enable static address aging 
+		- assign aging time(minutes)
+
+		#interface f0/1 
+		#switchport port-security 
+		#switchport port-security mac-address 000a.000a.000a
+		#switchport port-security violation restrict 
+		#switchport port-security aging static
+		#switchport port-security aging time 10
+		
+		#show port-security interface f0/1
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+		
+		#interface f0/2
+		#switchport port-security 
+		#switchport port-security mac-address 000a.000a.000a
+		#switchport port-security violation shutdown
+		#switchport port-security aging static
+		#switchport port-security aging time 10
+
+		#show port-security interface f0/2
+	
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+		#interface f0/3
+		#switchport port-security 
+		#switchport port-security mac-address 000a.000a.000a
+		#switchport port-security violation protect 
+		#switchport port-security aging static
+		#switchport port-security aging time 10
+
+		#show port-security interface f0/3 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++	
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++	
+
+	- mGRE & DMVPN
+		- dynamic multipoint virtual private network 
+	
+		- NHRP: next hop resolution protocol
+		
+			- NHS: next hop server(hub/hq router)
+	
+			- NHC: next hop client(spoke)
+		
+		- NHRP configuration
+	
+			- R1(NHS)
+				- WAN 1.1.1.1
+				- tunnel 192.168.10.1/24 
+		
+			- R2(NHC)
+				- WAN 2.2.2.1
+				- tunnel 192.168.10.2/24
+		
+			***Internet
+				- NHS 1.1.1.2 	
+				- NHC 2.2.2.2	
+				- NHC 3.3.3.2
+	
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	
+	- NHRP CLI
+		
+		- GRE: generic routing encapsulation
+			- nhs = next hop server
+
+			- nhc = next hop client 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	- Static routing(more outers = more map entries)
+	
+		R1# interface tunnel1
+		R1# ip address 192.168.10.1 255.255.255.0 		R1# tunnel source f0/0 		R1# tunnel mode gre multipoint 		R1# ip nhrp network-id 1
+		R1# ip nhrp map 192.168.10.2 2.2.2.2
+			
+		R2# interface tunnel1
+		R2# ip address 192.168.10.2 255.255.255.0 		R2# tunnel source f0/0 		R1# tunnel mode gre multipoint 		R2# ip nhrp network-id 1
+		R2# ip nhrp map 192.168.10.1 1.1.1.1 
+		
+		show dmvpn 
+		ping x.x.x.x source x.x.x.x 
+		
+		show run | sec
+	
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ 	- OSPF over DMVPN(Phase I - hub + spoke(s) data flows)
+
+		R1# interface tunnel1 		R1# ip address 192.168.10.1 255.255.255.0 
+		R1# tunnel source f0/0
+		R1# tunnel mode gre multipoint 	
+		R1# ip nhrp network-id 1 		R1# ip nhrp map multicast dynamic 
+	
+		R2# interface tunnel1 		R2# ip address 192.168.20.1 255.255.255.0 
+		R2# tunnel source f0/0
+		R2# tunnel mode gre multipoint 	
+		R2# ip nhrp network-id 1 		R2# ip nhs 192.168.10.1
+		R2# ip nhrp map 192.168.10.1 1.1.1.1
+		R2# ip nhrp map multicast 1.1.1.1
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ 	- OSPF over DMVPN(Phase II(tweaking protocol) - spoke + spoke(s) data flows)
+
+		R1# interface tunnel1 		R1# ip address 192.168.10.1 255.255.255.0 
+		R1# tunnel source f0/0
+		R1# tunnel mode gre multipoint 	
+		R1# ip nhrp network-id 1 		R1# ip nhrp map multicast dynamic 
+		R1# NO IP NEXT-HOP-SELF OSPF 1 
+
+		R2# interface tunnel1 		R2# ip address 192.168.20.1 255.255.255.0 
+		R2# tunnel source f0/0
+		R2# tunnel mode gre multipoint 	
+		R2# ip nhrp network-id 1 		R2# ip nhs 192.168.10.1
+		R2# ip nhrp map 192.168.10.1 1.1.1.1
+		R2# ip nhrp map multicast 1.1.1.1
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ 	- OSPF over DMVPN(Phase III(tweaking nhrp) - spoke + spoke(dual hub) data flows)
+
+		R1# interface tunnel1 		R1# ip address 192.168.10.1 255.255.255.0 
+		R1# tunnel source f0/0
+		R1# tunnel mode gre multipoint 	
+		R1# ip nhrp network-id 1
+		R1# ip nhrp map 192.168.10.3 3.3.3.3
+		R1# ip nhrp map multicast 192.168.10.3 		R1# ip nhrp map multicast dynamic 
+		R1# IP NHRP REDIRECT
+		
+		R3# interface tunnel1 		R3# ip address 192.168.10.3 255.255.255.0 
+		R3# tunnel source f0/0
+		R3# tunnel mode gre multipoint 	
+		R3# ip nhrp network-id 1
+		R3# ip nhrp map 192.168.10.1 1.1.1.1
+		R3# ip nhrp map multicast 192.168.10.1 		R3# ip nhrp map multicast dynamic 
+		R3# IP NHRP REDIRECT
+	
+		R2# interface tunnel1 		R2# ip address 192.168.20.1 255.255.255.0 
+		R2# tunnel source f0/0
+		R2# tunnel mode gre multipoint 	
+		R2# ip nhrp network-id 1 		R2# ip nhs 192.168.10.1
+		R2# ip nhs 192.168.10.3
+		R2# ip nhrp map 192.168.10.1 1.1.1.1
+		R2# ip nhrp map 192.168.10.3 3.3.3.3
+		R2# ip nhrp map multicast 1.1.1.1
+		R2# ip nhrp map multicast 3.3.3.3
+		R3# IP NHRP SHORTCUT
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	-  IKEv1(6)
+		**local and peer tunnel settings are required to match
+		- acl
+		- isakmp policy(phase 1)
+			- isakmp key exchange
+		- ipsec transform-set (phase 2)
+			- encrypting the tunnel
+		- crypto map
+			- vpn instructions
+		- apply crypto map 
+			- outside interface 
+		- show crypto ipsec security associations 
+
+		R1#show version
+		**verify presence of “security license”
+		
+		R1#license boot module c1900 technology-package securityk9
+		
+		R1#access-list 100 permit ip 192.168.1.0 0.0.0.255 192.168.3.0 0.0.0.255 
+		! ip <local LAN> <wildcard> <peer LAN> <wildcard> 
+
+		R1#crypto isakmp policy 10
+		R1#encryption aes 256 
+		R1#authentication pre-share 
+		R1#group 5
+		R1#exit 
+
+		R1#crypto isakmp key secret key address 209.165.200.1
+		! key [secret] <pre-shared key> 
+		! address <peer wan link>  
+	
+		R1#crypto ipsec transform-set R1->R3 esp-aes 256 esp-sha-hmac 
+		R1#mode tunnel
+		R1#exit 
+
+		R1#crypto map IPSEC-MAP  10 ipsec-isakmp
+		R1#set peer 209.165.200.1
+		R1#set pfs group5
+		R1#set security-association lifetime seconds 86400
+		R1#set transform-set R1->R3
+		R1#match address 100
+		R1#exit
+	
+		R1# interface g0/0
+		R1#crypto map IPSEC-MAP 
+
+		show crypto ipsec sa 
+		show crypto isakmp sa 
+		show crypto session 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	- access list(3)
+		***standard -> 1-99 - - applied closest the recipient
+			***denies or permits source IP address  
+		***extended -> 100-199 - - applied closest to the sender
+			*** denies or permits source IP address 
+			*** denies or permits destination IP address 
+			*** denies or permits port(service)  
+		***access lists are accompanied with an IMPLICIT DENY ALL statement at the end 
+		- end acl statement with “permit any”
+		***rule order dependent(prioritize by specificity)
+		- access-list configuration 
+		- access-list application 
+		- test 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+		
+		R1#ip access-list standard 1 
+		R1#deny 192.168.1.101 0.0.0.0
+		R1#permit any 
+		
+		R1#interface g0/0 
+		R1#ip access-group 1 inside
+
+		R1#interface g0/1
+		R1#ip access-group 1 outside 
+		
+		ping 192.168.1.101
+		ping 192.168.1.102	
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+		
+		R1#ip access-list extended 100
+		R1#deny tcp 192.168.1.101 0.0.0.0 eq 80 200.0.16.254 0.0.0.0 
+		R1#permit ip any any 
+
+		R1#interface g0/0
+		R1#ip access-group 100 inside
+		R1#exit
+
+		R1#interface g0/1 
+		R1#ip access-group 100 outside
+		
+		ping 192.168.2.100
+		ping 192.168.2.101
+		show traceroute 
+			***extended traceroute: allows trace conditions including port #(transport layer - UDP/TCP connections)  
+						
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	
+	- NAT(network address translation)
+		
+		- static NAT(4)[source nat translation] 
+			- static nat statement (inside local{private ip} - inside global{public ip})
+			- inside interface 
+			- outside interface 
+			- show ip nat translations 
+	
+			natROUTER#ip nat inside source static 192.168.20.10 200.100.50.1 
+			
+			natROUTER#interface g0/0 
+			natROUTER#ip nat inside
+			natROUTER#exit
+			
+			natROUTER#interface g0/1 
+			natROUTER#ip nat outside 
+			natROUTER# exit
+
+			show ip nat translations
+			show ip nat statistics
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+		- dynamic translation(NAT POOL)(5)
+			- inside interface
+			- outside interface 
+			- acl
+			- NAT pool
+			- dynamic NAT statement(dNAT OR PAT)
+
+			natPOOL#interface g0/0 
+			natPOOL#ip nat outside
+			natPOOL#exit
+
+			natPOOL# interface g0/1 
+			natPOOL#ip nat inside 
+			natPOOL#exit
+
+			natPOOL#ip access-list standard 1 
+			natPOOL#permit 192.168.1.0 0.0.0.255
+			natPOOL#deny any
+
+			natPOOL#ip nat pool MYPOOL 200.100.50.2 200.100.50.254 netmask 255.255.255.0
+			***translate inside local list to inside global list 
+
+			OR
+
+			natPOOL#ip nat inside source list 1 interface g0/0 overload 
+			***translates inside local to outside interface address 
+			***overload: assigns each source a port # for translation exclusivity 
+
+			show ip nat translations 
+			show ip nat statistics
+ 	
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	
+	- loopback(3)
+		- create loopback
+		- enable in routing protocol
+		- verify connectivity
+	
+		interface loopback0
+		ip address 192.168.1.1 255.255.255.255
+		exit
+
+		router ospf 1 
+		network 192.168.1.1 0.0.0.0 area 0
+		exit
+
+		show ip interface brief
+		show ip route 
+		ping 192.168.1.1
+		traceroute 192.168.1.1
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	- tunneling(3)
+		- configure interfaces 
+		- configure router routes 
+		- configure tunnel
+		- input static ip routes 
+
+		R1 interface f0/1 
+		R1 ip address 192.168.1.1 255.255.255.252
+		R1 no shutdown 
+		R1 exit
+
+		R3 interface f0/1 
+		R3 ip address 192.168.1.2 255.255.255.252
+		R3 no shutdown 
+		R3 exit
+		R3 interface f0/2 
+		R3 ip address 192.168.1.6 255.255.255.252			
+		R3 no shutdown
+		R3 exit
+	
+		R2 interface f0/2 
+		R2 ip address 192.168.1.5  255.255.255.252			
+		R2 no shutdown 								
+		R2 exit 	
+		
+		R1 ip route 192.168.1.4 255.255.255.252 192.168.1.2
+
+		R3 ip route 192.168.1.0 255.255.255.252 192.168.1.6 								
+												
+		R1 Tunnel0 									
+		R1 Ip address 192.168.1.13 255.255.255.252
+		R1 tunnel source f01/1 
+		R1 tunnel destination 192.168.1.6 255.255.255.252
+		R1 tunnel mode gre ip
+		R1 exit
+
+		R2 tunnel0 
+		R2 ip address 192.168.1.14 255.255.255.252
+		R2 tunnel source f0/2
+		R2 tunnel destination 192.168.1.2 255.255.255.252
+		R2 tunnel mode gre ip
+		R2 exit 
+
+		R1 ip route 192.168.1.16 255.255.255.252 192.168.1.10
+
+		R2 ip route 192.168.1.12 255.255.255.252 192.168.1.9 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	- serial interface(requires layer 3 encapsulation[4])
+		- interface	
+		- clear encapsulation
+		- enter encapsulation
+		- verify
+
+		interface s0/1/0
+		no encapsulation
+		encapsulation ppp
+		exit
+
+		show ip interface brief
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	
+	- dhcp server(4)
+		- interface configuration
+		- hostname
+		- dhcp excluded address(s)[nets/broads/gates]
+		- ip dhcp pool(s)
+
+interface g0/0
+ip address 192.168.0.1 255.255.255.0
+no shutdown
+exit
+
+hostname R1
+
+service dhcp
+
+ip dhcp excluded-address 192.168.0.1
+Ip dhcp excluded-address 192.168.0.0
+Ip dhcp excluded-address 192.168.0.255
+
+ip dhcp pool 192.168.0.1
+network 192.168.0.0 255.255.255.0
+default-router 192.168.0.1
+dns-server 8.8.8.8
+exit
+
+	show ip dhcp binding
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	
+	- dhcp relay
+		- interface config mode(client side)
+		- assign ip helper address(dhcp server address)
+		
+		**dhcp server ip: 192.168.0.254
+		
+		interface g0/0
+		ip helper-address 192.168.0.254
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	
+	- dhcp client
+		- interface config mode(server side)
+		- dhcp client declaration
+		
+		interface g0/0
+		ip address dhcp
+			**ip dhcp client lease ###	
+			- custom lease
+		
+		show dhcp lease
+		show dhcp server
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	- interfaces
+		- access & trunks
+	
+	- vlans
+		
+	- transport	
+		- telnet
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++	
+
+	- ssh configuration(9)
+		- interface configuration
+		- hostname
+		- enable
+		- domain name
+		- username password
+		- crypto keys  
+		- line vty
+		- enable ssh
+		- test ssh
+
+		interface g0/0 
+		ip address 192.168.1.1 255.255.255.0
+		no shutdown
+		exit
+
+		hostname R1
+			
+		enable password password
+			
+		ip domain-name domain-name.com
+			
+		username username password password
+	
+		crypto key generate rsa
+		1024
+			
+		line vty 0 15
+		local login
+		transport input ssh
+		exit
+			
+		ip ssh version 2
+
+		c:\> ssh -l username 192.168.1.1
+				 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	- routing protocols
+		- static
+		- rip
+			- ver1 & 2 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	- ospf(7)
+		- hostname
+		- interface
+		- router protocol configuration
+		- show ip routes(O)
+		- show connected ospf routers 
+		- show ospf 
+		
+		hostname hostname
+
+		interface f0/0
+			
+		ip address 192.168.1.1 255.255.255.0
+		no shutdown
+		exit
+			
+		router ospf 1
+		router-id #.#.#.#
+		network 192.168.1.0 0.0.0.255 area 0 
+		exit
+			
+		show ip protocols 
+			
+		show ip route ospf
+
+		show ip ospf neighbor
+
+		show ip ospf database
+
+		show ip ospf interface brief 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+		
+	- password
+		- standard & encrypted 
+		
+	- banner 
+		
+	- subinterfaces 
+		
+	- ip domain - name
+	
+	- hostname
+
+	- line vty   
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+GK
+
+	- hostname: unique name for a device on the network
+
+	- ip - domain name
+		- unique name for a network on the internet
+		- associated with a particular organization
+
+	- DNS: domain name system 
+		- coverts domain names into IPs 
+		- primarily used to contact the correct network for services 
+
+
+
+
+Subnetting
+	- subnet grid - - - - - - - - wildcard grid
+		- /32 0 IPs - - - - - - - - 0 IPs
+		- /31 2 IPs - - - - - - - - 1 IP
+		- /30 4 IPs - - - - - - - - 3 IPs 
+		- /29 8 IPs - - - - - - - - 7 IPs 
+		- etc
+	
+	- subnet grid II - - - - - - - - wildcard grid 
+		- /32 255.255.255.255 - - - - - - - - 0.0.0.0
+		- /31 255.255.255.254 - - - - - - - - 0.0.0.1
+		- /30 255.255.255.252 - - - - - - - - 0.0.0.3 
+		- /29 255.255.255.248 - - - - - - - - 0.0.0.7 
+		- /28 255.255.255.240 - - - - - - - - 0.0.0.15
+		- /27 255.255.255.224 - - - - - - - - 0.0.0.31
+		- /26 255.255.255.192 - - - - - - - - 0.0.0.63 
+		- /25 255.255.255.128 - - - - - - - - 0.0.0.127
+		- /24 255.255.255.0 - - - - - - - - 0.0.0.255 
+		- etc
+	
+	- subnet concept I 
+		- /0 contains 1 /0 network
+		- /0 contains 2 /1 networks 
+		- /0 contains 4 /2 networks 
+		- /1 contains 1 /1 network
+		- /1 contains 2 /2 networks 
+		- /1 contains 4 /3 networks 
+		- etc 
+	
+	- subnet concept II 
+		- every network reserves 3 IPs(network ID - gateway - broadcast) regardless of structure 
+		**/30(4 IPs :: 1 host) - acceptable configuration: point to point(router to router) usage of the gateway and host IPs 
+	
+	- subnet concept
+		- /24: 11111111.11111111.11111111.00000000
+			
+			- 0s indicate host bits/changeable bits
+			
+			- octets with eight, 1s indicate the preservation of the IPs digits 
+			
+			ex. 192.168.1.0/24
+				- 192.168.1.0
+				- 192.168.1.1
+				- 192.168.1.3 
+				- etc
+	
+	- subnet concept
+			
+			- objective: divide *given network* into /24 networks
+				*given subnet* -> A.B.C.D
+				*/24 -> 255.255.255.0
+				*/24 = 11111111.11111111.11111111.00000000
+
+			- the last 1 indicates the interval of the network
+				**count from 0, right to left 
+				- interval = 256 IPs per network
+			
+			ex. 192.168.1.0/24
+				- network: .0
+				- gate: .1
+				- broadcast: .255  
+				- next network:  192.168.2.0/24 
+
+	**subnetting rule 
+	
+			- boundary intervals are equal and always begin on .0
+				**the math may check out according to vlsm, but essentially there are fixed ip address ranges		
+			- 172.16.0.4/29 
+				
+				**gateway 172.16.0.10 is invalid 
+				
+				- /29 = 3 host 0s = 8
+		
+				- valid increments 172.16.0.0/29 + 8 -> 172.16.0.8 etc 
+					**172.16.0.4 and 172.16.0.10 are located in separate subnets 
+				
+				**adjacent vlsm must adhere to increment boundaries 
+					
+					ex. [172.16.0.0/30](active) [172.16.0.4/30](unoccupied)
+
+					      [172.16.0.0/29](occupied) [172.16.0.8/29](FIRST USABLE /29 BLOCK)  
+	
+	- Network Building
+	
+		- device schematic 
+		
+		- list IP types(hosts, physical, virtual, etc)
+	
+		- tally IPs per type
+	
+		- list subnets(consider any form of separation)
+	
+		- tally IPs per subnet(2 hosts, 45 hosts, etc)
+	
+		- ip totals/subnet(IDs - gates - broads included)
+	
+		- LDIF/ipMatrix
+			**vlsm - largest to smallest network
+			**consider classful ranges, and vlsm increments 
+			
+		- update schematic 
+	
+		
+
+
+GK
+ 	- RJ45 build(T5688)(OW - O - GW - Bl - BlW - G - BrW - Br)
+
+
+
+
+Taclane Configuration(rebuild peer enclave)
+
+	- primary objective: rebuilding plain(red) & cypher(black) text in taclane 
+		**red & black IPs  
+		- neighborship exchange w/ RHN 
+	
+	- verify cik key serial and taclane serial
+	**do not power on w/o cik key NOR remove cik during operation
+	
+	- kg250 console cable
+		
+	- kg250 console application  
+	
+	- management -> pt 
+
+	- network config menu
+
+	- denote red default gateway 
+
+	- configure management IP 
+	**ip will be the gateway 
+
+	- denote ipv4 address
+	**enter address into Firefox(https://#.#.#.#)
+
+	- login
+
+	- open putty via desktop shortcut 
+	
+	- open LDIF(located in team packet)
+		- pt is in sipr 
+		- ct is in xless
+	
+	- putty(taclane config)
+		- user & pass
+		- snmp pass
+		- pt gate
+		- ct gate 
+		- ping configured ip(verification) 
+	
+	- open taclane in GUI 
+	
+	- provision cik
+	
+	- open “kg250x vers 2.iwks”
+	
+	- skl
+		- radio EAD
+		- transec EAD 
+		- open keys 
+		- select unused key 
+		- load 
+		- send wakeup 
+		- open automated SI keys
+		- verify firefly key consistency(gui)
+	
+	- build remote route to RHN 
+		- provided in the ASA
+
+
+	
+
+3 Phases of Care 
+	
+	- care under fire 
+		- return fire 
+		- command “return fire”
+		- command “move to cover”
+		- command “perform self aid” 
+		- secure fire superiority 
+		- post security by casualty
+		- life saving aid 
+			- hasty tourniquet(as close to the heart as possible)
+		- move casualty to cover
+	- tactical field care
+		- MARCH PAWS algorithm 
+			- massive hemorrhaging 
+				- re-evaluate tourniquet 
+				- visual bloodsweep
+				- deliberate tourniquet(never surround the wound with tourniquets) 
+				- check for junctional wounds(neck, armpits, groin)
+				- extremities bloodsweep
+			- airway 
+				- head tilt, chin lift
+				- jaw thrust
+				- nasopharyngeal airway(right nostril first)
+			- respiration
+				- check for equal rise+fall of the chest(ear to belt buckle)
+				- find wound
+					- remove top
+					- rake(outward, top to bottom)
+				- prep chest seal
+					- cover wound with back of hand
+					- exhales(3x)
+					- chest seal(place seal at bottom of the exhale)
+				- clean wound 
+				- place yourself opposite the wound, beside the casualty
+					- use momentum to roll casualty onto your knees 
+				- repeat care for exit, back wounds affecting respiration
+				- burp wound 
+				- decompression needle
+					- find nipple line(find areas just below, on the casualty’s side
+					- inspect the needle
+					- insert into previously identified area(5th intercostal space[between the ribs])
+					- remove needle, leaving tube inserted
+					- secure would with tape 
+	- tactical medivac 
+		- 9 line
+			1 location
+			2 callsign/suffix/frequency
+			3 # of patients by precedents 
+			4 special equipment needed
+			5 # of patients by type
+			6 method of marking pickup sight
+			7 security of pickup sight
+			8 patient nationality 
+			9 terrain description/ NBC contamination 
+			***radio etiquette is essential 
+				- numbers(cero, tree, fower, fife, ait, niner)	
+				- military alphabet 
+				- break, line, over, copy, say again, out 
+			***triage
+				- massive casualty procedures
+				- prioritising supplies and assignment 
+
+
+
+	
+skl(1523 comsec)
+		- ensure sincgars is on/no comsec loaded/ FH/ knob on LD 
+		- eqs
+		- RT1523
+		- plats
+		- FCTX ground
+		- FCTX 1523
+		- load
+		- ok
+		- next
+		- connect SKL -> add/fill
+		- send 
+		- load 
+		- stow 
+		- 1 
+		- follow prompt
+1523 configuration
+		- insert battery
+		- secure cover(groove)
+		- knob(TST)
+			- done?
+		- skl -> aud/fill
+		- knob(LD)
+		- press menu(comsec to CT)
+		- press menu(mode to FH)
+		- press clear
+		- sto(stores)
+		- press time
+		- enter Julian date(knuckle trick)
+		- store
+		- Zulu time(world clock)
+			- hours+min(1130)
+				**current time(11:29:59)		
+			- min+sec(305_)
+				- oscillate the last digit(the approaching second)	
+				- sto to sync radio time
+
+
+
+
+Cisco Commands 
+	
+	Switch commands 
+		
+		- show int g#/# switchport - displays name, status, admin mode, operational 		  mode
+
+		- show port-security 
+		
+		- show port-security interface g#/# - interface security info
+		
+		- show errdisable recovery
+		
+		- switchport port-security mac-address sticky - converts all dynamically 		  learned MAC addresses to sticky MACS
+		
+		- vlan database - enters vlan database configuration mode 
+		
+		- vlan 59 name Data - creates vlan 59 and names it “Data”. This is added to 		  the vlan.dat file on the flash. 
+		
+		- interface range f0/1-44 - enters configuration mode for the entire range of 		  interfaces 
+	
+		- switchport mode access - sets the port as an access (user) port 
+		
+		- switch port access vlan 59 - assigns the port to a vlan 59
+		
+		- switchport mode trunk - sets a port to trunk vlans(do not use spanning-tree 		  pordtfast on a trunk)
+
+		- show vlan - displays vlan information
+		
+		- show vlan id 59 - displays vlan information about only vlan 59 
+	
+		- show interface vlan 59 - displays interface characteristics for the specified 		  vlan 
+
+		- show Mac address-table - displays the current MAC address forwarding 		  table 
+
+		- delete flash:vlan.dat - removes the vlan database from flash memory 
+
+		- spanning-tree portfast - takes the port immediately to the STP fForwarding 		  state. Only used for switchport mode access ports and end devices(IP 		  phones and computer hosts)
+
+		- mdix auto - allows straight or crossover cables to be used on a port using 		  auto pinout negotiation
+
+	Xless commands 
+		
+		- service-module Gi1/0 session - allows console access to xt2s module from 		  xt2r router 
+		
+		- Ctrl Shift 6, then X - allows return from xt2s module to xt2r router session 
+	
+		- Enter - allows return to xt2s session from xt2r if the service-module session 		  was already active 
+	
+		- show ospfv3 neighbor -  shows the ospfv3 neighbor table(xless+sipr)
+
+		- show ip ospfv3 neighbor -  shows the ospfv3 neighbor table(nipr) 
+
+		- sh ospfv3 data - shows the ospfv3 data 
+
+		- sh ip pin neighbor - display all pin neighbors the router discovered 
+
+		- sh ip route - displays the contents of the ip multicast routing table. Used for 		  viewing taclane multicast 
+
+		- sh arp - show the routes over the vlans and over vlans 501 and 101
+	
+	Router commands 
+		
+		- enable(en) - enter or enable Privileged Exec mode
+			** “router#” - you are in privileged exec mode
+		
+		- config t - used to enter configuration mode. Allows changes to the device
+			** “router(config)#” - you are in configuration mode
+		
+		- interface f0/0 - used to enter interface configuration mode to make changes 		  on an interface 
+			** “router(config-if)# - you are in interface configuration mode 
+		
+		- exit - takes you out of configuration for that mode into the previous mode 
+			** Ctrl Z - keystroke for exit 
+		
+		- tab - auto completes a command 
+		
+		- ? - provides a help list of available commands 
+		
+		- ping - used to test network connectivity to a distant ip address 
+		
+		- trace - used to trace the path in a network to a distant ip address 
+		
+		- Ctrl Shift 6 - stops the trace test and other activities 
+		
+		- do - allows you to do privileged exec commands in the configuration mode
+		
+		- show run - displays the running configuration running in RAM
+		
+		- show run | b router ospf 21 - show running configuration beginning from 		  router ospf 
+		
+		- show run int g0/48 - shows running configuration for interface g0/48
+		
+		- show run int g0/0.358 - shows running configuration for sub-interface 		  g0/0.358
+
+		**(config-subif)::encapsulation ?
+		**(config-subif)::encapsulation dot1q ?
+		**(config-subif)::encapsulation dot1q vlan 1 
+		***(?) or (*prompt* ?) lists available commands 							
+		- show start - shows startup configuration on the NVRAM 
+		
+		- show flash - show files in the flash 
+		
+		- show version - show iOS version and configuration registrer value 
+		
+		- show interface g0/0 - show statistics for a specific interface (such as g0/0)
+		
+		- show ip interface brief - show a summary of all interfaces including status 		  and ip address assigned 		
+		
+		- show int description - show status of vlan and other interfaces 
+		
+		- show arp - shows the Address Resolution Protocol (ARP) table
+		
+		- show ip route - shows the routing table currently being used 
+		
+		- show ip ospf - shows basic information about the OSPF routing process
+		
+		- show ip ospf interface - shows basic information as it relates to all interfaces
+		
+		**show ospf neighbor**
+		
+		**show ip ospf neighbor**  - lists all ospf neighbors and their states 
+		
+		- show ip ospf neighbor detail - displays a detailed list of OSPF neighbors		
+		- show ip ospf database - displays the contents of the ospf database  
+		
+		- term mon - sends debugging messages to the chosen terminal line 
+		
+		- debug ip ospf events - displays all ospf events as they occur in real time
+		
+		- clear ip ospf process - resets the ospf process, forcing ospf to resend hellos 		  and recreates neighbors, database, and routing table
+
+		- undebug all - stops the debugging process
+		
+		- sh ip nhrp nhs - displays the next hop servers for next hop server resolution. 		  Show if tunnels are responding. RE = responding. E = expecting a reply. 
+		
+		- copy run start - saves the running configuration to the start up configuration 		  and NVRAM 
+		
+		- copy flash start - copies the specified file to the start up configuration and 		  NVRAM 
+		
+		- copy tftp flash - copies the specified file to the flash via tftp server specified 
+		
+		- erase start - used to erase the saved configuration. 
+			** “write erase”
+
+		- delete flash:old_running.cfg - deletes a specified file from the flash. Never 		  do delete flash by itself. This will erase the iOS. 
+		
+		- more flash:JNN-64130-NFWHS - shows the contents of a specified file on 		  the flash 
+		
+		- config-reg 0x - changes the configuration register on a device 
+
+		- reloads - reboots the device
+		
+		- logging sync - when in line config mode, turns on automatic redisplay of 		  command line interrupted by console messages 
+
+
+
+
+RJ45(ethernet) cable build
+	- cut
+	- strip cover
+	- fan cables
+	- insert exposed cables to RJ45 bit
+	- align the colours
+	- crimp
+
+
+Dispatch Book
+	- Operator 5984-E(license)
+	- TC 5984-E(license)
+	- Two copies SF 91(Operator report of motor vehicle accident)
+	- Two copies of DD 518(Accident ID card)
+	- III Roadside Inspection
+	- DA 5988(PMCS) or DA2404
+	- QA/QC inspection checklist
+	- DA Form 5987-E(commander or designated rep if less than 7 days
+	- DA Form 5987-E(BN commander or designated rep if greater than or equal to 8 days)
+
+
+BII
+	- chock block
+	- drip pan
+	- highway warning kit
+	- serviceable fire extinguisher
+	- unexpired first aid kit
+	- serviceable safety strap 
+	- trailer latched with lights/chains/safety pin
+	- fire point gear	
+		- pick axe
+		- shovel
+		- axe
+		- fire extinguisher 
+
+
+90F Radios(SINCGARS)
+	- Component List
+		**BOM: acronym for component list 
+		- mount
+		- transmitter	
+			- E/F
+			**RT-1523x	
+		- amplifier 
+			**92F amps carry ’5158’ serials(last 4 digits)
+		- bracket, mounting
+			- 2 parts
+		- cable assembly(radio frequency)
+		- amplifier(frequency multiplier) 
+		- amplifier adapter(mount extension)
+		- cable assembly(special purpose, electric)
+	- configuration
+		- secure transmitter to radio mount
+		- secure microphone to ‘RXMT’
+		- secure antenna cable to top left receptacle on transmitter
+		- mode 
+			- single channel plain text(unsecure)
+			**time sync is required for secure comms
+		- secure antenna cable to transmitter
+		- place selector on ‘ld(load)’
+		- menu
+			- vol(9)
+			- ch.1(matching paired transmitter)
+			- pwr(low)
+				- distance dependent 
+			- paired frequency
+			- mode(sc[single channel])	
+			- comsec(pt[plain text])
+		**sq(squelch) on: regular use
+		**stby: battery saving mode(transmitter inoperable) 
+
+
+
+
+switching & routing
+				- concepts
+					***CONNECTION ENDS MUST MATCH(for the most part)
+						- ports, ospf, call routes, etc 
+					- prioritize colorless
+						- transmission enclave 
+					- trunk ports: receptacle -> receptacle
+						- utilized for network interconnect 
+						***carries multiple VLANs
+					- access ports: receptacle -> end device/user 
+						***associated w/ ONE VLAN
+					- ospf: open shortest path first 
+						- tunnel between networks 
+							- non passive: continuous ping(essentially)
+					- mtu	
+						- maximum transmission/largest packet size 
+					- snmp
+						- network monitor/enclave map
+					- dhcp
+						- automatic search and acquisition of first available ip address 
+				- commands
+					- conf t 
+						- configure terminal 
+					- show run
+						- displays all information from the running configuration 
+					-  show run int
+						- router port configuration
+					- show run int tu########
+						- displays tunnel information requested by RHN 
+					- show run ne
+						- router neighbours 
+					- show ip pin ne
+						- neighbour check 
+					- show ip os ne 
+					- show ip os traf tu########
+						- displays tunnel information
+						- 0s = good; 1s = errors 
+					- show run int tu########
+					- show os ne 
+						- neighbour check 
+					- show run int tu########
+						- node information
+						- useful for RHN verification
+					- show os traffic tu########
+						- ospf type(troubleshooting tx)
+					- show run ospf
+					- show run | s router ospf 21
+						- ospf type
+						***| = bar NOT the letter L
+					- show run | s router ospfv3 21 
+						- ospf type(COLORLESS)
+					- lway stop
+					- lway stat
+						- repeat until GUI displays modem activity 
+					- lway start
+					- do wr
+						- save configuration
+					- (on modem)8+9+delete
+						- zeroize modem 
+			
+
+
+PMCS 	
+	Fault types
+		- deadline(X)
+			- inoperable/ unfit for field usage
+		- slash(/)
+			- minor faults
+	Fueling
+		- use fuel nozzle 
+		- fuel in increments to avoid spills 
+	HMMWV
+		- information plate(inside roadside door) 
+		- oil spigot(2)
+		- tire pressure, wear, and expiration 
+			- >5yrs = expired 
+				- WWYY 
+		- check for leaks 
+		- ignition(wait for dash lights, then start)
+		- warmup(20min)
+			- check for leaks 
+		- lights
+		- horn
+		- check trunk for ability to open/jams
+		- oil type: 15W-40
+	  Trailer
+		- observe externals for faults
+			- front wheel
+			- tow mechanisms
+			- tent assembly
+	Generator 
+		**pig tails configuration(to PDU)
+			- Good Whiskey BRO
+				- green - white - biack - red - orange
+				- ground - neutral - active - active - ? 
+		- dead crank switch(s)
+			- 2kW contains 2 switches 
+			- set to ‘normal’ 
+		- ‘ emergency stop’ out 
+		- open front panel
+			- press CB1
+		- ‘prime and run’ 
+			- listen for priming 
+			- feel for rumble 
+			- brief warmup period(30s)	
+		- start	
+			- listen for reduced engine rumble 
+		- gauges 
+			- check adjusters for normal activity 
+			- voltage 
+			- panel lights 
+			- ‘push test’ lights 
+		- check for leaks
+		- check for mechanical issues 
+		- check tires  
+		- turn off 
+		- oil type: 15W-40
+			**2k oil type: 5W-30
+		**DO NOT USE CONVENIENCE RECEPTACLE 
+	TRICONS(CONNEXs) 
+		**1750s(1 per tricon) 
+		**B I I (two set minimum per tricon)
+			- loaded last and free of egress 
+			- triangles, fire extinguisher(s), shovels, sledge hammers, water cans
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+SINCGARS Radio
+	
+	GK
+	- Half duplex: push to talk(release to listen)
+	- 1523 SINCGARS Radio
+	- Single Channel Ground and Airborne Radio System
+	- change mode
+		- pull knob and rotate
+			- Z: zeroizes
+			- ON: squelch on
+			- LD: changes frequencies/loading
+			- Test: self test
+			- STBY: low power; saving current state 
+				- doesn't work without internal battery
+				- separate power source state overrides
+		- Single Channel(SC)		
+			- standard
+		- Frequency Hop
+			- similar to FDMA
+			- SKL required
+			- timing sync
+		COMSEC
+			- Plain Text(PT) 
+			- Cypher 			
+	Configuration(R/T-1523E)
+		- FCTN knob to Load(LD)
+		- 'menu' until 'mode'
+			- CHG to SC
+			- volume(9)
+			- CH1
+			- PT
+			- power: medium
+		- LD
+		- FREQ
+		- CLR 
+		- '42000'
+		- STO	
