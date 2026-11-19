@@ -1,5 +1,8 @@
 Links
 
+	https://www.armywriter.com/memorandum.htm
+		- memorandum examples and resources
+	
 	https://www.nist.gov/cyberframework
 		- strategeic framework for security	
 
